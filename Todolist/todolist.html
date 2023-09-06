@@ -57,7 +57,12 @@
             }
         }
 
-        function addTodoList(todo) {
+        function removeTodoList(index) {
+            todolist.splice(index, 1)
+            displayTodoList()
+        }
+
+        function addTodoList(index, todo) {
             let tr = document.createElement("tr")
             let tdButton = document.createElement("td")
             tr.appendChild(tdButton);
@@ -65,6 +70,9 @@
             let buttonDone = document.createElement("input")
             buttonDone.type = "Button"
             buttonDone.value = "Done"
+            buttonDone.onclick = function () {
+                removeTodoList(index)
+            }
             tdButton.appendChild(buttonDone)
 
             let tdTodo = document.createElement("td");
@@ -75,7 +83,7 @@
             todolistBody.appendChild(tr)
         }
 
-        function displatTodoList() {
+        function displayTodoList() {
             clearTodoList()
 
             for (let i = 0; i < todolist.length; i++) {
@@ -83,7 +91,7 @@
 
                 let searchText = document.getElementById("search").value.toLowerCase();
                 if (todo.toLowerCase().includes(searchText)) {
-                    addTodoList(todo)
+                    addTodoList(i, todo)
                 }
             }
         }
@@ -98,18 +106,18 @@
 
             console.info(todolist)
 
-            displatTodoList()
+            displayTodoList()
         }
 
         let searchInput = document.getElementById("search")
         searchInput.onkeyup = function () {
-            displatTodoList()
+            displayTodoList()
         }
         searchInput.onkeydown = function () {
-            displatTodoList()
+            displayTodoList()
         }
 
-        displatTodoList();
+        displayTodoList();
     </script>
 </body>
 
