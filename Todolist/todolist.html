@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todolist - Javascript</title>
+</head>
+
+<body>
+
+    <form action="" name="todoForm">
+        <table>
+            <tbody>
+                <tr>
+                    <td><label for="todo">Todo : </label></td>
+                    <td><input type="text" name="todo" id="todo"></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="submit" value="Add"></td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+
+    <h1>Todolist</h1>
+
+
+    <table>
+        <thead>
+            <tr>
+                <th>Filter:</th>
+                <th><input type="text" name="search" id="search"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="button" value="Done"></td>
+                <td>Todo Dexription</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    <script>
+        let todolist = []
+
+        document.forms['todoForm'].onsubmit = function (event) {
+            event.preventDefault();
+
+            let todo = document.forms['todoForm']['todo'].value;
+            todolist.push(todo);
+
+            document.forms['todoForm'].reset();
+
+            console.info(todolist)
+        }
+    </script>
+</body>
+
+</html>
