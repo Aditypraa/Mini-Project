@@ -44,7 +44,11 @@
 
 
     <script>
-        let todolist = []
+        let todolist = [
+            "Belajar Javascript",
+            "Belajar HTML",
+            "Belajar CSS"
+        ]
 
         function clearTodoList() {
             let todolistBody = document.getElementById("todolistBody")
@@ -53,27 +57,34 @@
             }
         }
 
+        function addTodoList(todo) {
+            let tr = document.createElement("tr")
+            let tdButton = document.createElement("td")
+            tr.appendChild(tdButton);
+
+            let buttonDone = document.createElement("input")
+            buttonDone.type = "Button"
+            buttonDone.value = "Done"
+            tdButton.appendChild(buttonDone)
+
+            let tdTodo = document.createElement("td");
+            tdTodo.textContent = todo;
+            tr.appendChild(tdTodo);
+
+            let todolistBody = document.getElementById("todolistBody")
+            todolistBody.appendChild(tr)
+        }
+
         function displatTodoList() {
             clearTodoList()
 
             for (let i = 0; i < todolist.length; i++) {
                 let todo = todolist[i]
 
-                let tr = document.createElement("tr")
-                let tdButton = document.createElement("td")
-                tr.appendChild(tdButton);
-
-                let buttonDone = document.createElement("input")
-                buttonDone.type = "Button"
-                buttonDone.value = "Done"
-                tdButton.appendChild(buttonDone)
-
-                let tdTodo = document.createElement("td");
-                tdTodo.textContent = todo;
-                tr.appendChild(tdTodo);
-
-                let todolistBody = document.getElementById("todolistBody")
-                todolistBody.appendChild(tr)
+                let searchText = document.getElementById("search").value.toLowerCase();
+                if (todo.toLowerCase().includes(searchText)) {
+                    addTodoList(todo)
+                }
             }
         }
 
@@ -89,6 +100,16 @@
 
             displatTodoList()
         }
+
+        let searchInput = document.getElementById("search")
+        searchInput.onkeyup = function () {
+            displatTodoList()
+        }
+        searchInput.onkeydown = function () {
+            displatTodoList()
+        }
+
+        displatTodoList();
     </script>
 </body>
 
