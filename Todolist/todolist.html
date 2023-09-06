@@ -34,7 +34,7 @@
                 <th><input type="text" name="search" id="search"></th>
             </tr>
         </thead>
-        <tbody>
+        <tbody id="todolistBody">
             <tr>
                 <td><input type="button" value="Done"></td>
                 <td>Todo Dexription</td>
@@ -46,6 +46,37 @@
     <script>
         let todolist = []
 
+        function clearTodoList() {
+            let todolistBody = document.getElementById("todolistBody")
+            while (todolistBody.firstChild) {
+                todolistBody.removeChild(todolistBody.firstChild)
+            }
+        }
+
+        function displatTodoList() {
+            clearTodoList()
+
+            for (let i = 0; i < todolist.length; i++) {
+                let todo = todolist[i]
+
+                let tr = document.createElement("tr")
+                let tdButton = document.createElement("td")
+                tr.appendChild(tdButton);
+
+                let buttonDone = document.createElement("input")
+                buttonDone.type = "Button"
+                buttonDone.value = "Done"
+                tdButton.appendChild(buttonDone)
+
+                let tdTodo = document.createElement("td");
+                tdTodo.textContent = todo;
+                tr.appendChild(tdTodo);
+
+                let todolistBody = document.getElementById("todolistBody")
+                todolistBody.appendChild(tr)
+            }
+        }
+
         document.forms['todoForm'].onsubmit = function (event) {
             event.preventDefault();
 
@@ -55,6 +86,8 @@
             document.forms['todoForm'].reset();
 
             console.info(todolist)
+
+            displatTodoList()
         }
     </script>
 </body>
