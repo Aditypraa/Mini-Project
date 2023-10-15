@@ -1,5 +1,5 @@
 # Todolist
 
 ## View App
-![image](https://github.com/Aditypraa/Javascript-Studi-Kasus/assets/95411404/0b2d2c4e-62d5-48d4-893a-76f264177e57)
+![image](https://github.com/Aditypraa/Javascript-Studi-Kasus/assets/95411404/026c663a-d8f0-444a-b1ad-bec3cbd70162)
 
