@@ -1,3 +1,3 @@
-# Studi Kasus Pemrograman Javascript
+# Weather App
 
-## Check My Branch
+## View App
