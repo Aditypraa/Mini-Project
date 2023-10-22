@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pola Lingkaran</title>
+</head>
+
+<body>
+
+    <script>
+        function lingkaran(pola) {
+            let hasil = "";
+            for (let i = 1; i <= pola + 1; i++) {
+                for (let j = 1; j <= pola + 2; j++) {
+                    hasil += '🔴';
+                }
+                // hasil = hasil + '\n';
+                hasil += '\n';
+            }
+
+            console.log(hasil)
+        }
+        lingkaran(2)
+        lingkaran(3)
+        lingkaran(5)
+        lingkaran(10)
+    </script>
+</body>
+
+</html>
