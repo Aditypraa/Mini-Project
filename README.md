@@ -187,9 +187,3 @@ For any questions or collaboration opportunities, feel free to reach out to me:
 Thank you for visiting my JavaScript Projects repository! Enjoy exploring the projects, and I look forward to your feedback.
 
 Happy coding! 🚀
-
-# 1
-
-# coding main
-
-## 2
