@@ -5,6 +5,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 ## 🚀 Projects Overview
 
 ### 1. **Undangan Pernikahan**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -15,6 +22,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Undangan Pernikahan](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Undangan-Pernikahan)
 
 ### 2. **Tebak Angka**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -25,6 +39,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Tebak Angka](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Tebak-Angka123)
 
 ### 3. **Game Suwit Jawa**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -35,6 +56,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Game Suwit Jawa](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Game-Suwit-Jawa)
 
 ### 4. **Kuis App**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -45,6 +73,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Kuis App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Kuis-App)
 
 ### 5. **Papan Skor**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -55,6 +90,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Papan Skor](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Papan-Skor)
 
 ### 6. **Weather App**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -65,6 +107,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Weather App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Weather-App)
 
 ### 7. **Bermain Warna**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -75,6 +124,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Bermain Warna](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bermain-Warna)
 
 ### 8. **Kalkulator Umur**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -85,6 +141,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Kalkulator Umur](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Kalkulator-Umur)
 
 ### 9. **TodoList**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -95,6 +158,13 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [TodoList](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Todolist)
 
 ### 10. **Computational Thinking**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -105,6 +175,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Computational Thinking](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Computational-Thinking)
 
 ### 11. **Bookshelf App**
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -115,6 +186,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Bookshelf App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bookshelf-Apps)
 
 ### 12. **Image Figure**
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -125,6 +197,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Image Figure](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/image-figure)
 
 ### 13. **Club Finder APP**
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -135,6 +208,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Club Finder APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Club-Finder-App)
 
 ### 14. **Belajar Alfabet**
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -144,7 +218,16 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
   - Responsive design -->
 - **Link:** [Belajar Alfabet](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/belajar-alfabet)
 
+### 15. **Kalkulator BMI**
 
+- **Description:** -
+- **Technologies:** HTML, CSS, JavaScript
+<!-- - **Features:**
+  - Add new tasks
+  - Mark tasks as completed
+  - Edit and delete tasks
+  - Responsive design -->
+- **Link:** [Kalkulator BMI](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/kalkulator-BMI)
 
 ## 📚 Learning and Growth
 
