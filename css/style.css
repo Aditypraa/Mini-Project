@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: linear-gradient(#001C30, #176B87);
+}
+
+.box {
+    width: 500px;
+    background: #F5F5F5;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 2px 2px 20px 5px #562626;
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    padding: 30px 0;
+}
+
+.content {
+    padding: 0 30px;
+}
+
+.input {
+    background: white;
+    box-shadow: 0px 0px 95px -30px #5C2E7E;
+    border-radius: 12px;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.input label {
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.input input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid blue;
+    width: 50%;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.inputWeight {
+    background: white;
+    box-shadow: 0px 0px 95px -30px #5C2E7E;
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.inputWeight label {
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.inputHeight {
+    background: white;
+    box-shadow: 0px 0px 95px -30px black;
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.inputHeight label {
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 20px;
+}
+
+button.calculate {
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background: #54B435;
+    font-size: 16px;
+    border-radius: 7px;
+    padding: 12px 0;
+    width: 100%;
+    outline: none;
+    border: none;
+    transition: all 0.5s;
+}
+
+button.calculate:hover {
+    background: #609966;
+}
+
+.result {
+    padding: 10px 20px;
+}
+
+.result p {
+    font-weight: 600;
+    font-size: 22px;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.result #result {
+    font-size: 36px;
+    font-weight: 900;
+    color: aqua;
+    background-color: white;
+    display: inline-block;
+    padding: 7px 20px;
+    border-radius: 55px;
+    margin-bottom: 25px;
+}
+
+.comment {
+    display: none;
+    border: dashed 1px;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+
+.gender {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    background: white;
+    box-shadow: 0px 0px 95px -30px black;
+    border-radius: 12px;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+/* style for Radio */
+.gender .container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-top: 7px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.gender .container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: rgb(223, 223, 223);
+    border-radius: 50%;
+}
+
+.gender .container:hover input~.checkmark {
+    background-color: rgb(66, 204, 11);
+}
+
+.gender .container input:checked~.checkmark {
+    background-color: green;
+}
+
+.checkmark::after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.gender .container .checkmark::after {
+    top: 9px;
+    left: 9px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: white;
+}
+
+.containerHW {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.modal {
+    cursor: default;
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(3, 3, 3);
+    background-color: rgba(255, 0, 0, 0.4);
+    padding-top: 300px;
+}
+
+.modal-content {
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid rgb(253, 1, 1);
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: black;
+}
+
+#modalText {
+    padding-top: 8px;
+    padding-right: 5px;
+    font-size: 18px;
+    color: black;
+}
+
+.modal-wrong {
+    border: 2px solid red;
+}
+
+.modal-corect {
+    border: 2px solid green;
+}
+
+.close:hover {
+    color: red;
+}
+
+@media(max-width:700px) {
+
+    .box {
+        width: 380px;
+    }
+
+    .input label {
+        font-size: 18px;
+    }
+
+    .input label,
+    .inputWeight label {
+        font-size: 24px;
+    }
+
+    .input input,
+    .inputHeight input,
+    .inputWeight .input {
+        font-size: 24px;
+    }
+
+    .modal-content {
+        width: 380px;
+    }
+}
+
+.social {
+    position: fixed;
+    top: 50%;
+    right: 0px;
+    transform: translateY(-50%);
+}
+
+.social a:hover {
+    background-color: #000000;
+    transition: all ease 0.5s;
+}
+
+.social a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+    line-height: 0px;
+    background-color: #FFFFFF;
+    border: 1px solid #CBCBCB;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+}
+
+.social a:hover i {
+    color: #FFFFFF;
+    transition: all ease 0.5s;
+}
+
+.social i {
+    font-size: 20px;
+    color: #2B2B2B;
+}
