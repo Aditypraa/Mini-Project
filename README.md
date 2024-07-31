@@ -70,9 +70,6 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
   - Responsive design -->
 - **Link:** [Weather App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Weather-App)
 
-<<<<<<< HEAD
-## Check My Branch
-=======
 ### 7. **Bermain Warna**
 
 - **Description:** -
@@ -190,4 +187,3 @@ For any questions or collaboration opportunities, feel free to reach out to me:
 Thank you for visiting my JavaScript Projects repository! Enjoy exploring the projects, and I look forward to your feedback.
 
 Happy coding! 🚀
->>>>>>> 01e01db (feat : Kalkulator BMI)
