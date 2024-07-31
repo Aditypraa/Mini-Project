@@ -6,6 +6,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 
 ### 1. **Undangan Pernikahan**
 
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -16,6 +22,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Undangan Pernikahan](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Undangan-Pernikahan)
 
 ### 2. **Tebak Angka**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
 
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
@@ -28,6 +40,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 
 ### 3. **Game Suwit Jawa**
 
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -38,6 +56,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Game Suwit Jawa](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Game-Suwit-Jawa)
 
 ### 4. **Kuis App**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
 
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
@@ -50,6 +74,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 
 ### 5. **Papan Skor**
 
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -60,6 +90,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Papan Skor](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Papan-Skor)
 
 ### 6. **Weather App**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
 
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
@@ -72,6 +108,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 
 ### 7. **Bermain Warna**
 
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -82,6 +124,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [Bermain Warna](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bermain-Warna)
 
 ### 8. **Kalkulator Umur**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
 
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
@@ -94,6 +142,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 
 ### 9. **TodoList**
 
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
+
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
 <!-- - **Features:**
@@ -104,6 +158,12 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Link:** [TodoList](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Todolist)
 
 ### 10. **Computational Thinking**
+
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > main
 
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
