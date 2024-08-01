@@ -169,7 +169,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
   - Responsive design -->
 - **Link:** [Kalkulator BMI](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/kalkulator-BMI)
 
-### 15. **HTML FORM - Studi Kasus TODO APP**
+### 16. **HTML FORM - Studi Kasus TODO APP**
 
 - **Description:** Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation
 - **Technologies:** HTML, CSS, JavaScript
