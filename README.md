@@ -169,6 +169,17 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
   - Responsive design -->
 - **Link:** [Kalkulator BMI](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/kalkulator-BMI)
 
+### 15. **HTML FORM - Studi Kasus TODO APP**
+
+- **Description:** Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation
+- **Technologies:** HTML, CSS, JavaScript
+<!-- - **Features:**
+  - Add new tasks
+  - Mark tasks as completed
+  - Edit and delete tasks
+  - Responsive design -->
+- **Link:** [HTML FORM - Studi Kasus TODO APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp)
+
 ## 📚 Learning and Growth
 
 Each project in this branch represents a step in my journey to master JavaScript. From understanding the basics to integrating APIs, these projects reflect my commitment to continuous learning and improvement.
