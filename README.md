@@ -180,16 +180,16 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
   - Responsive design -->
 - **Link:** [HTML FORM - Studi Kasus TODO APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp)
 
-### 16. **Comming Soon**
+### 17. **Tabel Pricing**
 
-- **Description:** -
-- **Technologies:** HTML, CSS, JavaScript
+- **Description:** Tabel pricing html css with implementasi semantic HTML 🤳
+- **Technologies:** HTML, CSS
 <!-- - **Features:**
   - Add new tasks
   - Mark tasks as completed
   - Edit and delete tasks
   - Responsive design -->
-- **Link:** [Comming Soon](-)
+- **Link:** [Tabel Pricing](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/tabel-pricing)
 
 ## 📚 Learning and Growth
 
