@@ -169,18 +169,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
   - Responsive design -->
 - **Link:** [Kalkulator BMI](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/kalkulator-BMI)
 
-### 16. **HTML FORM - Studi Kasus TODO APP**
-
-- **Description:** Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation
-- **Technologies:** HTML, CSS, JavaScript
-<!-- - **Features:**
-  - Add new tasks
-  - Mark tasks as completed
-  - Edit and delete tasks
-  - Responsive design -->
-- **Link:** [HTML FORM - Studi Kasus TODO APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp)
-
-### 17. **Tabel Pricing**
+### 16. **Tabel Pricing**
 
 - **Description:** Tabel pricing html css with implementasi semantic HTML 🤳
 - **Technologies:** HTML, CSS
@@ -190,6 +179,17 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
   - Edit and delete tasks
   - Responsive design -->
 - **Link:** [Tabel Pricing](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/tabel-pricing)
+
+### 17. **HTML FORM - Studi Kasus TODO APP**
+
+- **Description:** Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation
+- **Technologies:** HTML, CSS, JavaScript
+<!-- - **Features:**
+  - Add new tasks
+  - Mark tasks as completed
+  - Edit and delete tasks
+  - Responsive design -->
+- **Link:** [HTML FORM - Studi Kasus TODO APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp)
 
 ## 📚 Learning and Growth
 
