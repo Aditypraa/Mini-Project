@@ -200,7 +200,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS
 - **Features:**
   - -
-- **Link:** [Navbar Responsive - With CSS Flex](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Belajar-Flex)
+- **Link:** [Navbar Responsive - With CSS Flex](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/responsive-navbar)
 - **Preview:**
   ![Navbar Responsive - With CSS Flex](https://github.com/user-attachments/assets/3cfd1415-ab18-4467-8e68-5ad4619ebd0c)
 
