@@ -184,6 +184,16 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/cf31f7ec-4134-4280-8f12-aa13c0ab8b91)
 
+### 19. **Belajar Flex**
+
+- **Description:**
+- **Technologies:** HTML, CSS
+- **Features:**
+  - -
+- **Link:** [Belajar Flex](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Belajar-Flex)
+- **Preview:**
+  ![Belajar Flex](https://github.com/user-attachments/assets/52f0eb1d-0d17-47da-afa0-5e471297956c)
+
 ## 📚 Learning and Growth
 
 Each project in this branch represents a step in my journey to master JavaScript. From understanding the basics to integrating APIs, these projects reflect my commitment to continuous learning and improvement.
