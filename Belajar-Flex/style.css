@@ -1,0 +1,144 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: antiquewhite;
+  line-height: 1.65;
+  padding-bottom: 3000px;
+}
+
+/* Latihan 1 */
+.container-satu {
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  gap: 20px;
+  text-align: justify;
+}
+
+.column-utama {
+  flex: 3;
+  order: 2;
+}
+
+.sidebar-satu {
+  flex: 1;
+  order: 1;
+}
+
+.sidebar-dua {
+  flex: 1;
+  order: 3;
+}
+
+/* Latihan 2 */
+.container-dua {
+  max-width: 800px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.layanan {
+  width: 30%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.layanan.satu {
+  background-color: red;
+}
+
+.layanan.dua {
+  background-color: green;
+}
+
+.layanan.tiga {
+  background-color: blue;
+}
+
+/* Latihan 3  */
+.container-tiga {
+  max-width: 800px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.thumbnail {
+  width: 40%;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+
+/* Latihan 4 */
+.container-empat {
+  max-width: 800px;
+  margin: 50px auto;
+  /* overflow: hidden; */
+  display: flex;
+  gap: 20px;
+
+  /* flex-wrap: wrap;
+  justify-content: center; */
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  background-color: tomato;
+}
+
+.card .header {
+  height: 150px;
+  background-color: green;
+  border-radius: 20px;
+}
+
+.card .content {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.card.besar {
+  transform: scale(1.15);
+}
+
+/* Latihan 5 */
+.container-lima {
+  width: 500px;
+  height: 500px;
+  margin: 50px auto;
+  border: 2px solid black;
+  display: flex;
+
+  /* ---- Cara Pertama menjadikan kotak menjadi ditengah --- */
+  /* align-items: center;
+  justify-content: center; */
+}
+
+.kotak {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+
+  /* ---- Cara Kedua menjadikan kotak menjadi ditengah --- */
+  margin: auto;
+}
