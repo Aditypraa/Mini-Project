@@ -194,6 +194,16 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Preview:**
   ![Belajar Flex](https://github.com/user-attachments/assets/52f0eb1d-0d17-47da-afa0-5e471297956c)
 
+### 20. **Navbar Responsive - With CSS Flex**
+
+- **Description:** Navbar Responsive With Css native - Flexbox
+- **Technologies:** HTML, CSS
+- **Features:**
+  - -
+- **Link:** [Navbar Responsive - With CSS Flex](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/responsive-navbar)
+- **Preview:**
+  ![Navbar Responsive - With CSS Flex](https://github.com/user-attachments/assets/3cfd1415-ab18-4467-8e68-5ad4619ebd0c)
+
 ## 📚 Learning and Growth
 
 Each project in this branch represents a step in my journey to master JavaScript. From understanding the basics to integrating APIs, these projects reflect my commitment to continuous learning and improvement.
