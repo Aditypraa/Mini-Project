@@ -1,0 +1,74 @@
+.c-header {
+  width: 100%;
+
+  padding: 30px 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.c-card {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.c-form-item {
+  width: 100%;
+}
+
+.c-todo-list {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* ToDo List Grid Static */
+
+.c-todo-list-grid-static {
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  /* Gap */
+  column-gap: 20px;
+  row-gap: 20px;
+}
+
+/* ToDo List Grid Repeat */
+
+.c-todo-list-grid-repeat {
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  /* Gap */
+  column-gap: 20px;
+  row-gap: 20px;
+}
+
+/* ToDo List Grid Manual */
+
+@media (max-width: 768px) {
+  .c-todo-list-grid-repeat {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+/* ToDo List Grid Responsive */
+
+.c-todo-list-grid-responsive {
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+  /* Gap */
+  column-gap: 20px;
+  row-gap: 20px;
+}
