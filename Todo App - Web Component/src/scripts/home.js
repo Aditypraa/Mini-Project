@@ -71,6 +71,16 @@ const makeTodo = (todo) => {
   card.setAttribute("deadline", deadline);
   wrapper.append(card);
 
+  const deleteButton = document.createElement("button");
+  deleteButton.classList.add("btn", "btn-danger");
+  deleteButton.innerHTML = "<b>Delete</b>";
+  deleteButton.addEventListener("click", (e) => {
+    e.preventDefault();
+    deleteData(id);
+  });
+
+  wrapper.appendChild(deleteButton);
+
   return wrapper;
 };
 
