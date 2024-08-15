@@ -1,6 +1,8 @@
 // create custom element
 
 class Card extends HTMLElement {
+  static observedAttributes = ["name", "description", "deadline"];
+
   constructor() {
     super();
 
@@ -32,7 +34,9 @@ class Card extends HTMLElement {
 `;
   }
 
-  attributeChangedCallback(name, oldValue, newValue) {}
+  attributeChangedCallback(name, oldValue, newValue) {
+    this[`_${name}`] = newValue;
+  }
 }
 
 customElements.define("my-card", Card);
