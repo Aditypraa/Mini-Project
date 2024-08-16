@@ -204,6 +204,16 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Preview:**
   ![Navbar Responsive - With CSS Flex](https://github.com/user-attachments/assets/3cfd1415-ab18-4467-8e68-5ad4619ebd0c)
 
+### 21. **Todo App - Web Components**
+
+- **Description:** Html Form, Css Grid, Web Components
+- **Technologies:** HTML, CSS, Javascript
+- **Features:**
+  - -
+- **Link:** [Todo App - Web Components](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Web-Component)
+- **Preview:**
+  ![image](https://github.com/user-attachments/assets/9c1efdc0-671d-4a6a-9ee7-20faa84efff4)
+
 ## 📚 Learning and Growth
 
 Each project in this branch represents a step in my journey to master JavaScript. From understanding the basics to integrating APIs, these projects reflect my commitment to continuous learning and improvement.
