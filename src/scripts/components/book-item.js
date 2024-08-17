@@ -17,13 +17,34 @@ class BookItem extends HTMLElement {
     this._deadline = this.getAttribute("deadline");
   }
 
-  handleDelete() {}
+  disconnectedCallback() {
+    const deleteButton = this.querySelector("delete-button");
+    deleteButton.removeEventListener("click", this.handleDelete);
+  }
+
+  handleDelete() {
+    const id = parseInt(event.target.dataset.id);
+    this.dispatchEvent(
+      new CustomEvent("book-delete", {
+        detail: {
+          id,
+        },
+        bubbles: true,
+      })
+    );
+  }
   connectedCallback() {
     this.render();
+    const deleteButton = this.querySelector("delete-button");
+    if (deleteButton) {
+      deleteButton.addEventListener("click", this.handleDelete);
+    }
   }
 
   disconnectedCallback() {
     const deleteButton = this.querySelector("delete-button");
+
+    deleteButton.removeEventListener("click", this.handleDelete);
   }
 
   render() {
