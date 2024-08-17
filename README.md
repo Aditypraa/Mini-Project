@@ -214,6 +214,16 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/9c1efdc0-671d-4a6a-9ee7-20faa84efff4)
 
+### 22. **WEB COMPONENT - Peminjaman Buku**
+
+- **Description:** Menampilkan Data Buku, Formulir, Css Grid, dan Penerapan Web Component
+- **Technologies:** HTML, CSS, Javascript
+- **Features:**
+  - -
+- **Link:** [WEB COMPONENT - Peminjaman Buku](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Peminjaman-Buku)
+- **Preview:**
+  ![image](https://github.com/user-attachments/assets/3560ec99-470f-4152-b182-a66ed8f3fc50)
+
 ## 📚 Learning and Growth
 
 Each project in this branch represents a step in my journey to master JavaScript. From understanding the basics to integrating APIs, these projects reflect my commitment to continuous learning and improvement.
