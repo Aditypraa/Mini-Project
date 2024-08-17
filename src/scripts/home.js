@@ -31,6 +31,7 @@ formInput.addEventListener("submit", (e) => {
 
   formInput.reset();
 });
+
 function deleteBook(bookId) {
   const index = BOOKS.findIndex((book) => book.id === bookId);
   if (index !== -1) {

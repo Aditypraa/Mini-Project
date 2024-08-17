@@ -25,7 +25,32 @@
     <main>
       <section id="book-form" class="card">
         <form id="form-input" class="card-body c-card">
-          <div class="form-group">
+          <!-- Penerapan Web Component -->
+          <form-control
+            type="text"
+            input-name="title"
+            placeholder="mis : Belajar JavaScript Untuk Pemula"
+            min-length="3"
+            label="Judul Buku"
+            description="Isi dengan nama buku (min 3 karakter)"
+          ></form-control>
+          <form-control
+            type="text"
+            input-name="author"
+            placeholder="mis : Aditya Media"
+            min-length="3"
+            label="Nama Penulis"
+            description="Isi dengan nama Penulis buku (min 3 karakter)"
+          ></form-control>
+          <form-control
+            type="date"
+            input-name="deadline"
+            label="Tanggal Harus Dikembalikan"
+            description="klik tombol kalender untuk memilih tanggal dengan mudah"
+          ></form-control>
+
+          <!-- CONTOH : Tanpa Web Component -->
+          <!-- <div class="form-group">
             <label for="input-title">Judul Buku</label>
             <input
               type="text"
@@ -85,7 +110,7 @@
             >
               Klik tombol kalender untuk memilih tanggal dengan mudah
             </p>
-          </div>
+          </div> -->
 
           <button class="btn btn-primary" id="save-button">Simpan</button>
         </form>

@@ -2,3 +2,4 @@
 import "./book-item.js";
 import "./delete-button.js";
 import "./app-footer.js";
+import "./form-control.js";
