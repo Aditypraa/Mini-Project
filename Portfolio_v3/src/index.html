@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <meta name="description" content="Web portofolio tailwind" />
+    <meta name="keyword" content="tailwindcss, CSS, tailwind" />
+    <meta name="author" content="aditypraa" /> -->
+    <title>Portofolio | Tailwind Css</title>
+    <link href="./output.css" rel="stylesheet" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+    />
+    <style>
+      .gradient {
+        background-image: linear-gradient(to bottom right, #4c51bf, #702459);
+      }
+
+      .gradient-skill {
+        background-image: linear-gradient(#fc8181, #fed7d7);
+      }
+
+      .gradient-bottom {
+        background-image: linear-gradient(#4c51bf, #702459);
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- Navbar -->
+    <header class="w-screen mx-auto px-4">
+      <nav class="flex flex-wrap p-6 justify-between">
+        <figure class="flex flex-shrink-0 mr-6">
+          <img src="./img/AP-Pres.png" alt="logo" class="h-14 mr-2" />
+        </figure>
+
+        <div class="block lg:hidden">
+          <a
+            class="flex items-center px-3 py-2 rounded border border-indigo-400 text-indigo-500 hover:text-indigo-700 hover:border-indigo-700"
+          >
+            <svg
+              class="block h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              aria-hidden="true"
+            >
+              <title>menu</title>
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+              />
+            </svg>
+          </a>
+        </div>
+
+        <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+          <div class="text-sm lg:flex-grow">
+            <a
+              href="#about"
+              class="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-gray-900 text-lg mr-4"
+            >
+              About Me
+            </a>
+            <a
+              href="#work"
+              class="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-gray-900 text-lg mr-4"
+            >
+              Recent Work
+            </a>
+            <a
+              href="#skill"
+              class="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-gray-900 text-lg mr-4"
+            >
+              SKill Framework
+            </a>
+            <a
+              href="#contact"
+              class="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-gray-900 text-lg mr-4"
+            >
+              Contact Me
+            </a>
+          </div>
+
+          <div>
+            <a
+              href="#"
+              class="inline-block text-sm px-4 py-2 rounded text-gray-600 border border-gray-600 hover:border-transparent hover:text-white hover:bg-indigo-700 mt-4 lg:mt-0"
+            >
+              Button
+            </a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- About Me -->
+    <section class="w-screen mx-auto py-4 bg-indigo-700 gradient" id="about">
+      <div class="px-16 py-8">
+        <h1 class="w-full text-5xl font-bold text-center text-white">
+          About me
+        </h1>
+        <div class="mb-4">
+          <div
+            class="bg-pink-500 w-2/3 md:w-1/6 opacity-75 rounded h-1 mx-auto"
+          ></div>
+        </div>
+        <h2 class="text-3xl font-bold mb-2 text-white text-center">
+          Hai, Saya Aditya Pratama. Senang berjumpa dengan Anda.
+        </h2>
+        <h3 class="text-lg mb-2 text-center">
+          saya adalah seorang Frontend Developer yang sedang belajar membangun
+          portofolio menggunakan Tailwind CSS.
+        </h3>
+        <div class="w-full">
+          <figure class="px-4 py-4">
+            <img
+              src="img/AP-Pres.png"
+              class="shadow-lg rounded-3xl max-w-full mx-auto text-center w-48"
+            />
+          </figure>
+
+          <!-- Box Fortofolio -->
+          <div
+            class="grid grid-cols-1 md:grid-cols-3 bg-white py-4 px-4 md:py-8 md:px-8 m-16 rounded-lg"
+          >
+            <!-- Box Pertama -->
+            <div class="max-w-sm shadow-lg px-4 py-4 bg-white m-3 text-center">
+              <i class="fas fa-laptop-code fa-5x text-blue-500 mb-6"></i>
+              <div class="p-4">
+                <p class="font-bold text-lg md:text-xl mb-6">Programming</p>
+                <p class="text-gray-600 text-base mb-2">HTML</p>
+                <hr class="text-gray-600 mb-2" />
+                <p class="text-gray-600 text-base mb-2">CSS</p>
+                <hr class="text-gray-600 mb-2" />
+                <p class="text-gray-600 text-base mb-2">Javascript</p>
+                <hr class="text-gray-600 mb-2" />
+              </div>
+              <div class="px-2 py-4">
+                <button
+                  class="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 shadow-md rounded-tl-lg rounded-br-lg"
+                >
+                  Lihat Portofolio
+                </button>
+              </div>
+            </div>
+
+            <!-- Box Kedua  -->
+            <div class="max-w-sm shadow-lg px-4 py-4 bg-white m-3 text-center">
+              <i class="fas fa-pencil-ruler fa-5x text-red-500 mb-6"></i>
+              <div class="p-4">
+                <p class="font-bold text-lg md:text-xl mb-6">Design</p>
+                <p class="text-gray-600 text-base mb-2">Figma</p>
+                <hr class="text-gray-600 mb-2" />
+                <p class="text-gray-600 text-base mb-2">Lunacy</p>
+                <hr class="text-gray-600 mb-2" />
+              </div>
+              <div class="px-2 py-4">
+                <button
+                  class="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 shadow-md rounded-tl-lg rounded-br-lg"
+                >
+                  Lihat Portofolio
+                </button>
+              </div>
+            </div>
+
+            <!-- Box Ketiga  -->
+            <div class="max-w-sm shadow-lg px-4 py-4 bg-white m-3 text-center">
+              <i class="fas fa-database fa-5x text-green-500 mb-6"></i>
+              <div class="p-4">
+                <p class="font-bold text-lg md:text-xl mb-6">Database</p>
+                <p class="text-gray-600 text-base mb-2">MySql</p>
+                <hr class="text-gray-600 mb-2" />
+                <p class="text-gray-600 text-base mb-2">MongoDB</p>
+                <hr class="text-gray-600 mb-2" />
+              </div>
+              <div class="px-2 py-4">
+                <button
+                  class="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 shadow-md rounded-tl-lg rounded-br-lg"
+                >
+                  Lihat Portofolio
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skill Framework  -->
+    <section class="w-screen mx-auto py-4 bg-white px-4" id="skill">
+      <div class="flex flex-wrap">
+        <div class="w-full md:w-4/12 ml-auto mr-auto px-4 mt-20">
+          <figure>
+            <img
+              src="img/AP-Pres.png"
+              class="max-w-full rounded-lg shadow-lg"
+            />
+          </figure>
+        </div>
+        <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
+          <div class="md:pr-12">
+            <h1
+              class="w-full my-2 text-5xl font-bold text-center text-gray-700"
+            >
+              Skill Framework
+            </h1>
+            <div class="mb-4">
+              <div
+                class="h-1 mx-auto bg-pink-500 w-2/3 opacity-75 my-0 rounded"
+              ></div>
+              <p class="mt-4 text-lg text-gray-600">
+                Berikut adalah item dan skala keahlian untuk framework :
+              </p>
+              <ul class="list-none mt-4">
+                <li class="grid grid-cols-2 py-2">
+                  <p class="text-lg text-gray-600">Codeigniter</p>
+                  <div class="gradient-skill w-7/8"></div>
+                </li>
+                <li class="grid grid-cols-2 py-2">
+                  <p class="text-lg text-gray-600">Laravel</p>
+                  <div class="gradient-skill w-3/4"></div>
+                </li>
+                <li class="grid grid-cols-2 py-2">
+                  <p class="text-lg text-gray-600">Bootstrap</p>
+                  <div class="gradient-skill w-2/3"></div>
+                </li>
+                <li class="grid grid-cols-2 py-2">
+                  <p class="text-lg text-gray-600">Tailwindcss</p>
+                  <div class="gradient-skill w-1/2"></div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Recent Work -->
+    <section class="py-8 bg-white container mx-auto px-8" id="work">
+      <div class="text-center mb-8">
+        <h1 class="w-full my-2 text-5xl font-bold text-gray-700">
+          My Recent Work
+        </h1>
+        <div class="mb-4">
+          <div
+            class="h-1 mx-auto bg-pink-500 w-2/3 md:w-1/4 opacity-75 my-0 py-0 rounded"
+          ></div>
+        </div>
+        <p class="text-lg m-4 text-gray-600">
+          Berikut adalah pekerjaan terbaru Saya :
+        </p>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 m-8">
+        <div class="bg-white px-4 py-4 m-2 shadow-lg rounded">
+          <!-- source img1.jpg didownload dari situs unsplash.com, koleksi Clément H-@clemhlrdt-->
+          <img src="img/laptop.jpg" class="w-full rounded-lg" />
+          <div class="px-2 py-2 text-center">
+            <p class="font-bold text-xl mb-2 text-gray-700">
+              Sistem Informasi Penelitian
+            </p>
+            <p class="text-gray-700 text-base">
+              Sistem Informasi penelitian untuk dosen dan mahasiswa di
+              Universitas XX
+            </p>
+          </div>
+          <div class="px-2 py-4 text-center">
+            <button
+              class="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 shadow-md rounded-tr-lg rounded-bl-lg"
+            >
+              Detail
+            </button>
+          </div>
+        </div>
+        <div class="bg-white px-4 py-4 m-2 shadow-lg rounded">
+          <!-- source img1.jpg didownload dari situs unsplash.com, koleksi Clément H-@clemhlrdt-->
+          <img src="img/laptop.jpg" class="w-full rounded-lg" />
+          <div class="px-2 py-2 text-center">
+            <p class="font-bold text-xl mb-2 text-gray-700">
+              Sistem Informasi Penelitian
+            </p>
+            <p class="text-gray-700 text-base">
+              Sistem Informasi penelitian untuk dosen dan mahasiswa di
+              Universitas XX
+            </p>
+          </div>
+          <div class="px-2 py-4 text-center">
+            <button
+              class="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 shadow-md rounded-tr-lg rounded-bl-lg"
+            >
+              Detail
+            </button>
+          </div>
+        </div>
+        <div class="bg-white px-4 py-4 m-2 shadow-lg rounded">
+          <!-- source img1.jpg didownload dari situs unsplash.com, koleksi Clément H-@clemhlrdt-->
+          <img src="img/laptop.jpg" class="w-full rounded-lg" />
+          <div class="px-2 py-2 text-center">
+            <p class="font-bold text-xl mb-2 text-gray-700">
+              Sistem Informasi Penelitian
+            </p>
+            <p class="text-gray-700 text-base">
+              Sistem Informasi penelitian untuk dosen dan mahasiswa di
+              Universitas XX
+            </p>
+          </div>
+          <div class="px-2 py-4 text-center">
+            <button
+              class="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 shadow-md rounded-tr-lg rounded-bl-lg"
+            >
+              Detail
+            </button>
+          </div>
+        </div>
+        <div class="bg-white px-4 py-4 m-2 shadow-lg rounded">
+          <!-- source img1.jpg didownload dari situs unsplash.com, koleksi Clément H-@clemhlrdt-->
+          <img src="img/laptop.jpg" class="w-full rounded-lg" />
+          <div class="px-2 py-2 text-center">
+            <p class="font-bold text-xl mb-2 text-gray-700">
+              Sistem Informasi Penelitian
+            </p>
+            <p class="text-gray-700 text-base">
+              Sistem Informasi penelitian untuk dosen dan mahasiswa di
+              Universitas XX
+            </p>
+          </div>
+          <div class="px-2 py-4 text-center">
+            <button
+              class="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 shadow-md rounded-tr-lg rounded-bl-lg"
+            >
+              Detail
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Me -->
+    <section class="w-screen mx-auto py-4 gradient-bottom" id="contact">
+      <h1 class="w-full my-2 text-5xl font-bold text-center text-white">
+        Contact Me
+      </h1>
+      <div class="mb-4">
+        <div
+          class="h-1 mx-auto bg-pink-500 w-1/4 opacity-75 my-0 py-0 rounded"
+        ></div>
+      </div>
+      <div
+        class="container p-4 mb-6 w-full lg:w-1/2 shadow-lg rounded-lg mx-auto bg-white"
+      >
+        <form action="#" method="post">
+          <div class="mb-4">
+            <label
+              for="name"
+              class="block text-gray-700 text-sm font-bold mb-2"
+            >
+              Nama
+            </label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              placeholder="Nama"
+            />
+          </div>
+          <div class="mb-4">
+            <label
+              for="email"
+              class="block text-gray-700 text-sm font-bold mb-2"
+            >
+              Email
+            </label>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              placeholder="Email"
+            />
+          </div>
+          <div class="mb-4">
+            <label
+              for="message"
+              class="block text-gray-700 text-sm font-bold mb-2"
+            >
+              Pesan
+            </label>
+            <textarea
+              name="message"
+              id="message"
+              class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              placeholder="Pesan"
+            ></textarea>
+          </div>
+          <div class="flex items-center justify-between">
+            <button
+              class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+              type="submit"
+            >
+              Kirim
+            </button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="w-screen mx-auto py-4 bg-white mt-8 mb-8" id="footer">
+      <div class="text-center">
+        <a href="#" class="text-indigo-700 hover:text-indigo-900 p-2">
+          <i class="fa-2x fab fa-facebook"></i>
+        </a>
+        <a href="#" class="text-indigo-700 hover:text-indigo-900 p-2">
+          <i class="fa-2x fab fa-twitter"></i>
+        </a>
+        <a href="#" class="text-indigo-700 hover:text-indigo-900 p-2">
+          <i class="fa-2x fab fa-instagram"></i>
+        </a>
+        <a href="#" class="text-indigo-700 hover:text-indigo-900 p-2">
+          <i class="fa-2x fab fa-linkedin"></i>
+        </a>
+      </div>
+      <div class="text-center mt-4 text-gray-600">Design WIth Tailwind</div>
+    </footer>
+  </body>
+</html>
