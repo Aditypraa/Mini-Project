@@ -224,6 +224,38 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/3560ec99-470f-4152-b182-a66ed8f3fc50)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+# 🌟 Portfolio Website Examples
+
+Welcome to the Portfolio Website Examples repository! Here, you'll find a variety of portfolio website examples built using HTML, CSS, and JavaScript. Each example is designed to showcase different aspects of front-end development, from basic to advanced techniques. Explore these projects and feel free to provide feedback or contribute!
+
+## 🚀 Project Overview
+
+### 1. **Portfolio v1**
+
+- **Description:** -
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [Portfolio v1](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v1)
+- **Preview:**
+  ![image](https://github.com/user-attachments/assets/2c2cbae6-2a94-4d0d-a58f-a1ab7a483387)
+
+### 2. **Portfolio v2**
+
+- **Description:** -
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [Portfolio v2](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v2)
+- **Preview:**
+  ![image](https://github.com/user-attachments/assets/2a53ef7a-d41e-4af4-91ae-1b171187ecaa)
+
+### 3. **Portfolio v3**
+
+- **Description:** -
+- **Technologies:** HTML, Tailwind
+- **Link:** [Portfolio v3](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v3)
+- **Preview:**
+  ![image](https://github.com/user-attachments/assets/29e6856e-0cb4-4ec5-93e1-49ac2d4e360a)
+
 ## 📚 Learning and Growth
 
 Each project in this branch represents a step in my journey to master JavaScript. From understanding the basics to integrating APIs, these projects reflect my commitment to continuous learning and improvement.
