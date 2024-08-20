@@ -256,6 +256,56 @@ Welcome to the Portfolio Website Examples repository! Here, you'll find a variet
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/29e6856e-0cb4-4ec5-93e1-49ac2d4e360a)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100"> Node.js Projects
+
+Welcome to my Node.js Projects repository! This branch contains a collection of simple projects that I have created to showcase my skills and expertise in Node.js development. Each project is designed to highlight different aspects of Node.js, from building RESTful APIs to integrating databases and creating synergistic frontends with the React framework. Explore the projects, and feel free to leave feedback or contribute!
+
+## 🚀 Projects Overview
+
+### 1. **ReactJs/Profile-Content**
+
+- **Description:** -
+- **Technologies:** -
+- **Link:** [ReactJs/Profile-Content](https://github.com/Aditypraa/NodeJS-Project/tree/ReactJs/Profile-Content)
+- **Preview:**
+
+### 2. **ReactJs/Todo-List**
+
+- **Description:** -
+- **Technologies:** -
+- **Link:** [ReactJs/Todo-List](https://github.com/Aditypraa/NodeJS-Project/tree/ReactJs/Todo-List)
+- **Preview:**
+
+### 3. **ExpressJs/CRUD-Ejs**
+
+- **Description:** -
+- **Technologies:** -
+- **Link:** [ExpressJs/CRUD-Ejs](https://github.com/Aditypraa/NodeJS-Project/tree/ExpressJs/CRUD-Ejs)
+- **Preview:**
+
+### 4. **ExpressJs/Mongodb-Contact-App**
+
+- **Description:** -
+- **Technologies:** -
+- **Link:** [ExpressJs/Mongodb-Contact-App](https://github.com/Aditypraa/NodeJS-Project/tree/ExpressJs/Mongodb-Contact-App)
+- **Preview:**
+
+### 5. **HapiJs/Bookshelf-Api**
+
+- **Description:** -
+- **Technologies:** -
+- **Link:** [HapiJs/Bookshelf-Api](https://github.com/Aditypraa/NodeJS-Project/tree/HapiJs/Bookshelf-Api)
+- **Preview:**
+
+### 6. **HapiJs/Notes-App**
+
+- **Description:** -
+- **Technologies:** -
+- **Link:** [HapiJs/Notes-App](https://github.com/Aditypraa/NodeJS-Project/tree/HapiJs/Notes-App)
+- **Preview:**
+
 ## 📚 Learning and Growth
 
 Each project in this branch represents a step in my journey to master JavaScript. From understanding the basics to integrating APIs, these projects reflect my commitment to continuous learning and improvement.
