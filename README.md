@@ -10,7 +10,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Undangan Pernikahan](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Undangan-Pernikahan)
+- **Link:** [vanilla/Undangan Pernikahan](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Undangan-Pernikahan)
 - **Preview:**
   ![Undangan Pernikahan](https://github.com/user-attachments/assets/1821f25d-302e-4b2c-8064-391cc6a413e2)
 
@@ -20,7 +20,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Tebak Angka](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Tebak-Angka123)
+- **Link:** [vanilla/Tebak Angka](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Tebak-Angka123)
 - **Preview:**
   ![Tebak Angka](https://github.com/user-attachments/assets/58a71265-bcb5-4dce-a14d-d50710fd3364)
 
@@ -30,7 +30,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Game Suwit Jawa](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Game-Suwit-Jawa)
+- **Link:** [vanilla/Game Suwit Jawa](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Game-Suwit-Jawa)
 - **Preview:**
   ![Game Suwit Jawa](https://github.com/user-attachments/assets/95ec3dfb-0f1b-4d45-8dcc-78db3dbef473)
 
@@ -40,7 +40,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Kuis App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Kuis-App)
+- **Link:** [vanilla/Kuis App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Kuis-App)
 - **Preview:**
   ![Kuis App](https://github.com/user-attachments/assets/faf02082-d4f0-40c8-b41f-25b89f16afb5)
 
@@ -50,7 +50,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Papan Skor](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Papan-Skor)
+- **Link:** [vanilla/Papan Skor](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Papan-Skor)
 - **Preview:**
   ![Papan Skor](https://github.com/user-attachments/assets/9aa43359-521a-413c-acfb-a1d04b33bd3f)
 
@@ -60,7 +60,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Weather App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Weather-App)
+- **Link:** [vanilla/Weather App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Weather-App)
 - **Preview:**
   ![Weather App](https://github.com/user-attachments/assets/be2fce4f-457b-455e-a251-e49c4a2ddb06)
 
@@ -70,7 +70,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Bermain Warna](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bermain-Warna)
+- **Link:** [vanilla/Bermain Warna](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bermain-Warna)
 - **Preview:**
   ![Bermain Warna](https://github.com/user-attachments/assets/61923e2b-95bb-4053-bf82-7b1fac19953c)
 
@@ -80,7 +80,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Kalkulator Umur](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Kalkulator-Umur)
+- **Link:** [vanilla/Kalkulator Umur](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Kalkulator-Umur)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/949af174-c949-41e1-88dc-090d1a05a61c)
 
@@ -90,7 +90,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [TodoList](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Todolist)
+- **Link:** [vanilla/TodoList](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Todolist)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/d1583ec0-7040-41f3-ab2e-e37042ef47dd)
 
@@ -100,7 +100,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Computational Thinking](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Computational-Thinking)
+- **Link:** [vanilla/Computational Thinking](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Computational-Thinking)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/290f2756-0739-44f4-aace-df389a6e8961)
 
@@ -110,7 +110,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Bookshelf App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bookshelf-Apps)
+- **Link:** [vanilla/Bookshelf App](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bookshelf-Apps)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/e75d4573-7436-4c7a-bd2c-93a757588c38)
 
@@ -120,7 +120,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Image Figure](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/image-figure)
+- **Link:** [vanilla/Image Figure](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/image-figure)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/ff3df29c-00e8-4bf2-b956-65c2ba8adc94)
 
@@ -130,7 +130,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Club Finder APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Club-Finder-App)
+- **Link:** [vanilla/Club Finder APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Club-Finder-App)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/4cd09694-2405-4b1a-8086-597246d5dd26)
 
@@ -140,7 +140,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Belajar Alfabet](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/belajar-alfabet)
+- **Link:** [vanilla/Belajar Alfabet](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/belajar-alfabet)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/1053c429-7c95-4c7c-953b-e7a4cf358509)
 
@@ -150,7 +150,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [Kalkulator BMI](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/kalkulator-BMI)
+- **Link:** [vanilla/Kalkulator BMI](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/kalkulator-BMI)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/10fc2a1d-19ee-4b0f-88f0-1d88133458b5)
 
@@ -160,7 +160,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS
 - **Features:**
   - -
-- **Link:** [Tabel Pricing](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/tabel-pricing)
+- **Link:** [vanilla/Tabel Pricing](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/tabel-pricing)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/4c526efb-f0f3-418f-9523-c6c6719964f7)
 
@@ -170,7 +170,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [HTML FORM - Studi Kasus TODO APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp)
+- **Link:** [vanilla/HTML FORM - Studi Kasus TODO APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/0bbb39bc-5967-4f66-9d97-3bc9d7ce64a2)
 
@@ -180,7 +180,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:**
   - -
-- **Link:** [CSS GRID - TODO APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Css-Grid-TodoApp)
+- **Link:** [vanilla/CSS GRID - TODO APP](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Css-Grid-TodoApp)
 - **Preview:**
   ![nama](https://github.com/user-attachments/assets/cf31f7ec-4134-4280-8f12-aa13c0ab8b91)
 
@@ -190,7 +190,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS
 - **Features:**
   - -
-- **Link:** [Belajar Flex](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Belajar-Flex)
+- **Link:** [vanilla/Belajar Flex](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Belajar-Flex)
 - **Preview:**
   ![Belajar Flex](https://github.com/user-attachments/assets/52f0eb1d-0d17-47da-afa0-5e471297956c)
 
@@ -200,7 +200,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS
 - **Features:**
   - -
-- **Link:** [Navbar Responsive - With CSS Flex](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/responsive-navbar)
+- **Link:** [vanilla/Navbar Responsive - With CSS Flex](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/responsive-navbar)
 - **Preview:**
   ![Navbar Responsive - With CSS Flex](https://github.com/user-attachments/assets/3cfd1415-ab18-4467-8e68-5ad4619ebd0c)
 
@@ -210,7 +210,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, Javascript
 - **Features:**
   - -
-- **Link:** [Todo App - Web Components](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Web-Component)
+- **Link:** [vanilla/Todo App - Web Components](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Web-Component)
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/9c1efdc0-671d-4a6a-9ee7-20faa84efff4)
 
@@ -220,7 +220,7 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 - **Technologies:** HTML, CSS, Javascript
 - **Features:**
   - -
-- **Link:** [WEB COMPONENT - Peminjaman Buku](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Peminjaman-Buku)
+- **Link:** [vanilla/WEB COMPONENT - Peminjaman Buku](https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Peminjaman-Buku)
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/3560ec99-470f-4152-b182-a66ed8f3fc50)
 
@@ -236,7 +236,7 @@ Welcome to the Portfolio Website Examples repository! Here, you'll find a variet
 
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
-- **Link:** [Portfolio v1](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v1)
+- **Link:** [vanilla/Portfolio v1](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v1)
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/2c2cbae6-2a94-4d0d-a58f-a1ab7a483387)
 
@@ -244,7 +244,7 @@ Welcome to the Portfolio Website Examples repository! Here, you'll find a variet
 
 - **Description:** -
 - **Technologies:** HTML, CSS, JavaScript
-- **Link:** [Portfolio v2](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v2)
+- **Link:** [vanilla/Portfolio v2](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v2)
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/2a53ef7a-d41e-4af4-91ae-1b171187ecaa)
 
@@ -252,7 +252,7 @@ Welcome to the Portfolio Website Examples repository! Here, you'll find a variet
 
 - **Description:** -
 - **Technologies:** HTML, Tailwind
-- **Link:** [Portfolio v3](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v3)
+- **Link:** [vanilla/Portfolio v3](https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v3)
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/29e6856e-0cb4-4ec5-93e1-49ac2d4e360a)
 
@@ -269,7 +269,7 @@ I welcome contributions and suggestions! If you have ideas for new features or i
 For any questions or collaboration opportunities, feel free to reach out to me:
 
 - Email: [aditypraa@gmail.com](mailto:aditypraa@gmail.com)
-- LinkedIn: [Linkedin/in/aditypraa](www.linkedin.com/in/aditypraa)
+- LinkedIn:vanilla/ [Linkedin/vanilla/in/aditypraa](www.linkedin.vanilla/com/in/aditypraa)
 
 Thank you for visiting my JavaScript Projects repository! Enjoy exploring the projects, and I look forward to your feedback.
 
