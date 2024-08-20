@@ -269,8 +269,8 @@
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [ReactJs/Todo-List]()
-- **Preview:**
+- **Link:** [ReactJs/Todo-List](https://github.com/Aditypraa/Mini-Project/tree/ReactJs/Todo-List)
+- **Preview:** ![image](https://github.com/user-attachments/assets/a1c3337a-68c3-4745-981b-699f76151300)
 
 ### 3. **ExpressJs/CRUD-Ejs**
 
