@@ -1,4 +1,52 @@
-# 📂 JavaScript Projects
+<h1 align="center">
+  <br>
+  <a href="https://github.com/Aditypraa"><img src="https://github.com/user-attachments/assets/fc55b3ae-201b-40b9-9180-70d4c0c42747
+" alt="Markdownify" width="200"></a>
+  <br>
+  Mini Project Ideas
+  <br>
+</h1>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@adityapraetama"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/aditypraa/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/aditypraa"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/pefAc7Jjsm" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/aditypraa"><img width="32px" alt="Dev.to" title="Dev" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://www.youtube.com/@adityapraetama">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
+    </a>
+  <a href="https://www.youtube.com/@adityapraetama">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>
+    </a> 
+  <a href="https://github.com/Aditypraa">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+  <a href="https://github.com/Aditypraa">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+  <a href="https://github.com/Aditypraa">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
+    </a>
+</p>
+
+<br/>
+
+<!-- Javascript Project -->
+<details open> 
+<summary><h2>➕ 📂 JavaScript Projects</h2></summary>
 
 ## 🚀 Projects Overview
 
@@ -222,9 +270,14 @@
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/3560ec99-470f-4152-b182-a66ed8f3fc50)
 
+</details>
+<!-- Javascript Project -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-# 📂 Portfolio Website Examples
+<!-- Portfolio Website -->
+<details open> 
+<summary><h2>➕ 📂 Portfolio Website Examples</h2></summary>
 
 ## 🚀 Project Overview
 
@@ -252,9 +305,14 @@
 - **Preview:**
   ![image](https://github.com/user-attachments/assets/29e6856e-0cb4-4ec5-93e1-49ac2d4e360a)
 
+</details>
+<!-- Portfolio Website -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-# 📂 Framework
+<!-- Framework -->
+<details open> 
+<summary><h2>➕ 📂 Framework</h2></summary>
 
 ## 🚀 Projects Overview
 
@@ -263,7 +321,7 @@
 - **Description:** -
 - **Technologies:** -
 - **Link:** [ReactJs/Profile-Content](https://github.com/Aditypraa/Mini-Project/tree/ReactJs/Profile-Content)
-- **Preview:** ![image](https://github.com/user-attachments/assets/94550e39-6faf-4edb-b75a-a038f5f455fa)
+- **Preview:** ![ReactJs/Profile-Content](https://github.com/user-attachments/assets/94550e39-6faf-4edb-b75a-a038f5f455fa)
 
 ### 2. **ReactJs/Todo-List**
 
@@ -271,7 +329,8 @@
 - **Technologies:** -
 - **Link:** [ReactJs/Todo-List](https://github.com/Aditypraa/Mini-Project/tree/ReactJs/Todo-List)
 - **Preview:**
-  ![image](https://github.com/user-attachments/assets/a1c3337a-68c3-4745-981b-699f76151300)
+
+  ![ReactJs/Todo-List](https://github.com/user-attachments/assets/a1c3337a-68c3-4745-981b-699f76151300)
 
 ### 3. **ExpressJs/Mongodb-Contact-App**
 
@@ -294,21 +353,26 @@
 - **Link:** [HapiJs/Notes-App](https://github.com/Aditypraa/Mini-Project/tree/HapiJs/Notes-App)
 - **Preview:**
 
-## 📚 Learning and Growth
+</details>
+<!-- Framework -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+# 📚 Learning and Growth
 
 Each project in this branch represents a step in my journey to mastering the Full Stack Web Developer. From understanding the basics to learning backend and frontend development, these projects reflect my commitment to learning and growing. Each project in this branch represents a step in my journey to become a full-stack Web Developer. From understanding the basics to learning backend and frontend builds, these projects reflect my commitment to continuous learning and development.
 
-## 🤝 Contribution
+# 🤝 Contribution
 
 I welcome contributions and suggestions! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request. Let's collaborate and create something amazing together!
 
-## 📧 Contact
+# 📧 Contact
 
 For any questions or collaboration opportunities, feel free to reach out to me:
 
 - Email: [aditypraa@gmail.com](mailto:aditypraa@gmail.com)
-- LinkedIn: [Linkedin/in/aditypraa](www.linkedin.vanilla/com/in/aditypraa)
+- LinkedIn: [Linkedin/in/aditypraa](www.linkedin.com/in/aditypraa)
 
-Thank you for visiting my JavaScript Projects repository! Enjoy exploring the projects, and I look forward to your feedback.
+Thank you for visiting my Mini Project repository! Enjoy exploring the projects, and I look forward to your feedback.
 
 Happy coding! 🚀
