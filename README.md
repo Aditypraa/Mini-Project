@@ -43,10 +43,88 @@
 
 <br/>
 
+<!-- html -->
+<details close>
+  <summary>
+    <h2>➕ 📂 HTML</h2>
+  </summary>
+
+<h2>🚀 Projects Overview</h2>
+
+ <h3>1. HTML FORM -> Studi Kasus TODO APP</h3>
+  <ul>
+    <li><strong>Description:</strong> Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation</li>
+    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>Features:</strong> -</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp">vanilla/HTML FORM - Studi Kasus TODO APP</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/0bbb39bc-5967-4f66-9d97-3bc9d7ce64a2" alt="HTML FORM - Studi Kasus TODO APP Preview">
+    </li>
+  </ul>
+
+</details>
+<!-- html -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<!-- CSS -->
+<details close>
+  <summary>
+    <h2>➕ 📂 CSS</h2>
+  </summary>
+
+<h2>🚀 Projects Overview</h2>
+
+<h3>1. CSS GRID -> TODO APP</h3>
+  <ul>
+    <li><strong>Description:</strong> Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation</li>
+    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>Features:</strong> -</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Css-Grid-TodoApp">vanilla/CSS GRID - TODO APP</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/cf31f7ec-4134-4280-8f12-aa13c0ab8b91" alt="CSS GRID - TODO APP Preview">
+    </li>
+  </ul>
+
+<h3>2. CSS Flex -> Belajar Flex</h3>
+  <ul>
+    <li><strong>Description:</strong> -</li>
+    <li><strong>Technologies:</strong> HTML, CSS</li>
+    <li><strong>Features:</strong> -</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Belajar-Flex">vanilla/Belajar Flex</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/52f0eb1d-0d17-47da-afa0-5e471297956c" alt="Belajar Flex Preview">
+    </li>
+  </ul>
+
+<h3>3. CSS Flex -> Navbar Responsive</h3>
+  <ul>
+    <li><strong>Description:</strong> Navbar Responsive With Css native - Flexbox</li>
+    <li><strong>Technologies:</strong> HTML, CSS</li>
+    <li><strong>Features:</strong> -</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/responsive-navbar">vanilla/Navbar Responsive - With CSS Flex</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/3cfd1415-ab18-4467-8e68-5ad4619ebd0c" alt="Navbar Responsive - With CSS Flex Preview">
+    </li>
+  </ul>
+
+</details>
+<!-- CSS -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <!-- Javascript Project -->
 <details close>
   <summary>
-    <h2>➕ 📂 JavaScript Projects</h2>
+    <h2>➕ 📂 JavaScript</h2>
   </summary>
 
   <h2>🚀 Projects Overview</h2>
@@ -259,59 +337,20 @@
     </li>
   </ul>
 
-  <h3>17. HTML FORM - Studi Kasus TODO APP</h3>
-  <ul>
-    <li><strong>Description:</strong> Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation</li>
-    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
-    <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp">vanilla/HTML FORM - Studi Kasus TODO APP</a>
-    </li>
-    <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/0bbb39bc-5967-4f66-9d97-3bc9d7ce64a2" alt="HTML FORM - Studi Kasus TODO APP Preview">
-    </li>
-  </ul>
+</details>
+<!-- Javascript Project -->
 
-  <h3>18. CSS GRID - TODO APP</h3>
-  <ul>
-    <li><strong>Description:</strong> Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation</li>
-    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
-    <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Css-Grid-TodoApp">vanilla/CSS GRID - TODO APP</a>
-    </li>
-    <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/cf31f7ec-4134-4280-8f12-aa13c0ab8b91" alt="CSS GRID - TODO APP Preview">
-    </li>
-  </ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-  <h3>19. Belajar Flex</h3>
-  <ul>
-    <li><strong>Description:</strong> -</li>
-    <li><strong>Technologies:</strong> HTML, CSS</li>
-    <li><strong>Features:</strong> -</li>
-    <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Belajar-Flex">vanilla/Belajar Flex</a>
-    </li>
-    <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/52f0eb1d-0d17-47da-afa0-5e471297956c" alt="Belajar Flex Preview">
-    </li>
-  </ul>
+<!-- Web Components -->
+<details close>
+  <summary>
+    <h2>➕ 📂 Web Components</h2>
+  </summary>
 
-  <h3>20. Navbar Responsive - With CSS Flex</h3>
-  <ul>
-    <li><strong>Description:</strong> Navbar Responsive With Css native - Flexbox</li>
-    <li><strong>Technologies:</strong> HTML, CSS</li>
-    <li><strong>Features:</strong> -</li>
-    <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/responsive-navbar">vanilla/Navbar Responsive - With CSS Flex</a>
-    </li>
-    <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/3cfd1415-ab18-4467-8e68-5ad4619ebd0c" alt="Navbar Responsive - With CSS Flex Preview">
-    </li>
-  </ul>
+<h2>🚀 Projects Overview</h2>
 
-  <h3>21. Todo App - Web Components</h3>
+<h3>1. WEB COMPONENT -> Todo App</h3>
   <ul>
     <li><strong>Description:</strong> Html Form, Css Grid, Web Components</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
@@ -324,7 +363,7 @@
     </li>
   </ul>
 
-  <h3>22. WEB COMPONENT - Peminjaman Buku</h3>
+<h3>2. WEB COMPONENT -> Peminjaman Buku</h3>
   <ul>
     <li><strong>Description:</strong> Menampilkan Data Buku, Formulir, Css Grid, dan Penerapan Web Component</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
@@ -337,15 +376,15 @@
     </li>
   </ul>
 
-</details>
-<!-- Javascript Project -->
+  </details>
+<!-- Web Components -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- Portfolio Website -->
 <details close>
   <summary>
-    <h2>➕ 📂 Portfolio Website Examples</h2>
+    <h2>➕ 📂 Portfolio Website</h2>
   </summary>
 
   <h2>🚀 Project Overview</h2>
@@ -391,15 +430,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<!-- Framework -->
+<!-- React.Js -->
 <details close>
   <summary>
-    <h2>➕ 📂 Framework</h2>
+    <h2>➕ 📂 React Js</h2>
   </summary>
 
   <h2>🚀 Projects Overview</h2>
 
-  <h3>1. ReactJs/Profile-Content</h3>
+  <h3>1. ReactJs -> Profile-Content</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> -</li>
@@ -411,7 +450,7 @@
     </li>
   </ul>
 
-  <h3>2. ReactJs/Todo-List</h3>
+  <h3>2. ReactJs -> Todo-List</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> -</li>
@@ -423,7 +462,20 @@
     </li>
   </ul>
 
-  <h3>3. ExpressJs/Mongodb-Contact-App</h3>
+</details>
+<!-- React.Js -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<!-- Express.Js -->
+<details close>
+  <summary>
+    <h2>➕ 📂 Express Js</h2>
+  </summary>
+
+  <h2>🚀 Projects Overview</h2>
+
+ <h3>1. ExpressJs -> Mongodb-Contact-App</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> -</li>
@@ -433,17 +485,20 @@
     <li><strong>Preview:</strong> -</li>
   </ul>
 
-  <h3>4. HapiJs/Bookshelf-Api</h3>
-  <ul>
-    <li><strong>Description:</strong> -</li>
-    <li><strong>Technologies:</strong> -</li>
-    <li><strong>Link:</strong> 
-      <a href="https://github.com/Aditypraa/Mini-Project/tree/HapiJs/Bookshelf-Api">HapiJs/Bookshelf-Api</a>
-    </li>
-    <li><strong>Preview:</strong> -</li>
-  </ul>
+  <details>
+<!-- Express.Js -->
 
-  <h3>5. HapiJs/Notes-App</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<!-- Hapi.Js -->
+<details close>
+  <summary>
+    <h2>➕ 📂 Hapi Js</h2>
+  </summary>
+
+  <h2>🚀 Projects Overview</h2>
+
+<h3>1. HapiJs -> Notes-App</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> -</li>
@@ -453,8 +508,8 @@
     <li><strong>Preview:</strong> -</li>
   </ul>
 
-</details>
-<!-- Framework -->
+  <details>
+<!-- Hapi.Js -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
