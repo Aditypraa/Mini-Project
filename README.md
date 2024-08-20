@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Aditypraa"><img src="https://github.com/user-attachments/assets/fc55b3ae-201b-40b9-9180-70d4c0c42747
-" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/Aditypraa"><img src="https://github.com/user-attachments/assets/fc55b3ae-201b-40b9-9180-70d4c0c42747" alt="Aditya Pratama" width="200"></a>
   <br>
   Mini Project Ideas
   <br>
