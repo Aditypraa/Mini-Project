@@ -224,7 +224,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-# 🌟 Portfolio Website Examples
+# 📂 Portfolio Website Examples
 
 ## 🚀 Project Overview
 
@@ -254,7 +254,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-# 🪟 Framework
+# 📂 Framework
 
 ## 🚀 Projects Overview
 
@@ -270,7 +270,8 @@
 - **Description:** -
 - **Technologies:** -
 - **Link:** [ReactJs/Todo-List](https://github.com/Aditypraa/Mini-Project/tree/ReactJs/Todo-List)
-- **Preview:** ![image](https://github.com/user-attachments/assets/a1c3337a-68c3-4745-981b-699f76151300)
+- **Preview:**
+  ![image](https://github.com/user-attachments/assets/a1c3337a-68c3-4745-981b-699f76151300)
 
 ### 3. **ExpressJs/Mongodb-Contact-App**
 
@@ -295,7 +296,7 @@
 
 ## 📚 Learning and Growth
 
-Each project in this branch represents a step in my journey to master JavaScript. From understanding the basics to integrating APIs, these projects reflect my commitment to continuous learning and improvement.
+Each project in this branch represents a step in my journey to mastering the Full Stack Web Developer. From understanding the basics to learning backend and frontend development, these projects reflect my commitment to learning and growing. Each project in this branch represents a step in my journey to become a full-stack Web Developer. From understanding the basics to learning backend and frontend builds, these projects reflect my commitment to continuous learning and development.
 
 ## 🤝 Contribution
 
@@ -306,7 +307,7 @@ I welcome contributions and suggestions! If you have ideas for new features or i
 For any questions or collaboration opportunities, feel free to reach out to me:
 
 - Email: [aditypraa@gmail.com](mailto:aditypraa@gmail.com)
-- LinkedIn:vanilla/ [Linkedin/vanilla/in/aditypraa](www.linkedin.vanilla/com/in/aditypraa)
+- LinkedIn: [Linkedin/in/aditypraa](www.linkedin.vanilla/com/in/aditypraa)
 
 Thank you for visiting my JavaScript Projects repository! Enjoy exploring the projects, and I look forward to your feedback.
 
