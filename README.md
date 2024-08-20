@@ -262,42 +262,42 @@
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [ReactJs/Profile-Content](https://github.com/Aditypraa/NodeJS-Project/tree/ReactJs/Profile-Content)
-- **Preview:**
+- **Link:** [ReactJs/Profile-Content](https://github.com/Aditypraa/Mini-Project/tree/ReactJs/Profile-Content)
+- **Preview:** ![image](https://github.com/user-attachments/assets/94550e39-6faf-4edb-b75a-a038f5f455fa)
 
 ### 2. **ReactJs/Todo-List**
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [ReactJs/Todo-List](https://github.com/Aditypraa/NodeJS-Project/tree/ReactJs/Todo-List)
+- **Link:** [ReactJs/Todo-List]()
 - **Preview:**
 
 ### 3. **ExpressJs/CRUD-Ejs**
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [ExpressJs/CRUD-Ejs](https://github.com/Aditypraa/NodeJS-Project/tree/ExpressJs/CRUD-Ejs)
+- **Link:** [ExpressJs/CRUD-Ejs]()
 - **Preview:**
 
 ### 4. **ExpressJs/Mongodb-Contact-App**
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [ExpressJs/Mongodb-Contact-App](https://github.com/Aditypraa/NodeJS-Project/tree/ExpressJs/Mongodb-Contact-App)
+- **Link:** [ExpressJs/Mongodb-Contact-App]()
 - **Preview:**
 
 ### 5. **HapiJs/Bookshelf-Api**
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [HapiJs/Bookshelf-Api](https://github.com/Aditypraa/NodeJS-Project/tree/HapiJs/Bookshelf-Api)
+- **Link:** [HapiJs/Bookshelf-Api]()
 - **Preview:**
 
 ### 6. **HapiJs/Notes-App**
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [HapiJs/Notes-App](https://github.com/Aditypraa/NodeJS-Project/tree/HapiJs/Notes-App)
+- **Link:** [HapiJs/Notes-App]()
 - **Preview:**
 
 ## 📚 Learning and Growth
