@@ -272,32 +272,25 @@
 - **Link:** [ReactJs/Todo-List](https://github.com/Aditypraa/Mini-Project/tree/ReactJs/Todo-List)
 - **Preview:** ![image](https://github.com/user-attachments/assets/a1c3337a-68c3-4745-981b-699f76151300)
 
-### 3. **ExpressJs/CRUD-Ejs**
+### 3. **ExpressJs/Mongodb-Contact-App**
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [ExpressJs/CRUD-Ejs]()
+- **Link:** [ExpressJs/Mongodb-Contact-App](https://github.com/Aditypraa/Mini-Project/tree/ExpressJs/Mongodb-Contact-App)
 - **Preview:**
 
-### 4. **ExpressJs/Mongodb-Contact-App**
+### 4. **HapiJs/Bookshelf-Api**
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [ExpressJs/Mongodb-Contact-App]()
+- **Link:** [HapiJs/Bookshelf-Api](https://github.com/Aditypraa/Mini-Project/tree/HapiJs/Bookshelf-Api)
 - **Preview:**
 
-### 5. **HapiJs/Bookshelf-Api**
+### 5. **HapiJs/Notes-App**
 
 - **Description:** -
 - **Technologies:** -
-- **Link:** [HapiJs/Bookshelf-Api]()
-- **Preview:**
-
-### 6. **HapiJs/Notes-App**
-
-- **Description:** -
-- **Technologies:** -
-- **Link:** [HapiJs/Notes-App]()
+- **Link:** [HapiJs/Notes-App](https://github.com/Aditypraa/Mini-Project/tree/HapiJs/Notes-App)
 - **Preview:**
 
 ## 📚 Learning and Growth
