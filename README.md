@@ -1,7 +1,5 @@
 # 📂 JavaScript Projects
 
-Welcome to my JavaScript Projects repository! This branch contains a curated list of projects showcasing my skills and expertise in JavaScript development. Each project is designed to highlight different aspects of JavaScript, from fundamental concepts to advanced techniques. Explore the projects and feel free to provide feedback or contribute!
-
 ## 🚀 Projects Overview
 
 ### 1. **Undangan Pernikahan**
@@ -228,8 +226,6 @@ Welcome to my JavaScript Projects repository! This branch contains a curated lis
 
 # 🌟 Portfolio Website Examples
 
-Welcome to the Portfolio Website Examples repository! Here, you'll find a variety of portfolio website examples built using HTML, CSS, and JavaScript. Each example is designed to showcase different aspects of front-end development, from basic to advanced techniques. Explore these projects and feel free to provide feedback or contribute!
-
 ## 🚀 Project Overview
 
 ### 1. **Portfolio v1**
@@ -258,9 +254,7 @@ Welcome to the Portfolio Website Examples repository! Here, you'll find a variet
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100"> Node.js Projects
-
-Welcome to my Node.js Projects repository! This branch contains a collection of simple projects that I have created to showcase my skills and expertise in Node.js development. Each project is designed to highlight different aspects of Node.js, from building RESTful APIs to integrating databases and creating synergistic frontends with the React framework. Explore the projects, and feel free to leave feedback or contribute!
+# 🪟 Framework
 
 ## 🚀 Projects Overview
 
