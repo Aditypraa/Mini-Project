@@ -44,7 +44,7 @@
 <br/>
 
 <!-- Javascript Project -->
-<details open> <summary><h2>➕ 📂 JavaScript Projects</h2></summary>
+<details close> <summary><h2>➕ 📂 JavaScript Projects</h2></summary>
 
 ## 🚀 Projects Overview
 
@@ -274,7 +274,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- Portfolio Website -->
-<details open> <summary><h2>➕ 📂 Portfolio Website Examples</h2></summary>
+<details close> <summary><h2>➕ 📂 Portfolio Website Examples</h2></summary>
 
 ## 🚀 Project Overview
 
@@ -308,7 +308,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- Framework -->
-<details open> <summary><h2>➕ 📂 Framework</h2></summary>
+<details close> <summary><h2>➕ 📂 Framework</h2></summary>
 
 ## 🚀 Projects Overview
 
