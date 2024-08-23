@@ -508,6 +508,16 @@
     <li><strong>Preview:</strong> -</li>
   </ul>
 
+<h3>2. HapiJs -> Bookshelf API</h3>
+  <ul>
+    <li><strong>Description:</strong> -</li>
+    <li><strong>Technologies:</strong> -</li>
+    <li><strong>Link:</strong> 
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/HapiJs/Bookshelf-Api">HapiJs/Bookshelf API</a>
+    </li>
+    <li><strong>Preview:</strong> -</li>
+  </ul>
+
   </details>
 <!-- Hapi.Js -->
 
