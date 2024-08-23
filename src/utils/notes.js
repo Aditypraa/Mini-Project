@@ -106,4 +106,5 @@ const notesData = [
   },
 ];
 
+export default notesData;
 console.log(notesData);
