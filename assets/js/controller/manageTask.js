@@ -1,4 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
+  // function membuat huruf pertama menjadi kapital
+  let capitalizeFirstLetter = (str) => {
+    if (!str) return str;
+    return str.charAt(0).toUpperCase() + str.slice(1);
+  };
+
   const myTask = new Task(); // Membuat instance object dari class Task
 
   const existingTasks = myTask.getTasks(); // Membuat variabel untuk mengambil seluruh data task
@@ -6,15 +12,16 @@ document.addEventListener("DOMContentLoaded", () => {
   const taskWrapper = document.getElementById("taskWrapper"); // Mengambil element id taskWrapper di tasks.html
   const taskWrapperEmpty = document.getElementById("taskWrapperEmpty"); // Mengambil element id taskWrapperEmpty di tasks.html
 
-  function displayAllTasks() {
+  function displayAllTasks(tasks = existingTasks) {
     if (existingTasks.length === 0) {
       taskWrapper.className = "hidden";
       console.log("tidak ada task yang tersedia");
     } else {
+      taskWrapper.innerHTML = "";
       taskWrapperEmpty.className = "hidden";
       console.log("task tersedia");
 
-      existingTasks.forEach((task) => {
+      tasks.forEach((task) => {
         const itemTask = document.createElement("div");
         itemTask.className =
           "flex justify-between bg-white p-5 w-full rounded-3xl";
@@ -26,9 +33,9 @@ document.addEventListener("DOMContentLoaded", () => {
                                         <img src="./assets/img/icons/ghost.svg" alt="icon">
                                     </div>
                                     <div class="flex flex-col">
-                                        <p class="font-bold text-lg leading-[27px]">${
+                                        <p class="font-bold text-lg leading-[27px]">${capitalizeFirstLetter(
                                           task.taskName
-                                        }</p>
+                                        )}</p>
                                         <p class="text-sm leading-[21px] text-taskia-grey">Created at ${
                                           task.createdAt
                                         }</p>
@@ -109,11 +116,20 @@ document.addEventListener("DOMContentLoaded", () => {
                             <div class="flex flex-row items-center gap-x-3">
                                 <a href="#"
                                     class="my-auto font-semibold text-taskia-red border border-taskia-red p-[12px_20px] h-12 rounded-full">Delete</a>
-                                <a href="#"
+                                <a href="#" id="completeTask-${task.id}"
                                     class="flex gap-[10px] justify-center items-center text-white p-[12px_20px] h-12 font-semibold bg-gradient-to-b from-[#977FFF] to-[#6F4FFF] rounded-full w-full border border-taskia-background-grey">Complete</a>
                             </div>
             `;
         taskWrapper.appendChild(itemTask);
+
+        itemTask
+          .querySelector(`#completeTask-${task.id}`)
+          .addEventListener("click", (e) => {
+            e.preventDefault();
+            myTask.completeTask(task.id);
+            const updateTasks = myTask.getTasks();
+            displayAllTasks(updateTasks);
+          });
       });
     }
   }
