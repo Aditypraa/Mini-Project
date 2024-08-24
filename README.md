@@ -57,7 +57,7 @@
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/HtmlForm-TodoApp">vanilla/HTML FORM - Studi Kasus TODO APP</a>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/html/HtmlForm-TodoApp">html/HTML FORM - Studi Kasus TODO APP</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/0bbb39bc-5967-4f66-9d97-3bc9d7ce64a2" alt="HTML FORM - Studi Kasus TODO APP Preview">
@@ -83,7 +83,7 @@
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Css-Grid-TodoApp">vanilla/CSS GRID - TODO APP</a>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/css/Css-Grid-TodoApp">css/CSS GRID - TODO APP</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/cf31f7ec-4134-4280-8f12-aa13c0ab8b91" alt="CSS GRID - TODO APP Preview">
@@ -96,7 +96,7 @@
     <li><strong>Technologies:</strong> HTML, CSS</li>
     <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Belajar-Flex">vanilla/Belajar Flex</a>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/css/Belajar-Flex">css/Belajar Flex</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/52f0eb1d-0d17-47da-afa0-5e471297956c" alt="Belajar Flex Preview">
@@ -109,7 +109,7 @@
     <li><strong>Technologies:</strong> HTML, CSS</li>
     <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/responsive-navbar">vanilla/Navbar Responsive - With CSS Flex</a>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/css/responsive-navbar">css/Navbar Responsive - With CSS Flex</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/3cfd1415-ab18-4467-8e68-5ad4619ebd0c" alt="Navbar Responsive - With CSS Flex Preview">
@@ -337,6 +337,19 @@
     </li>
   </ul>
 
+  <h3>16. Task Management</h3>
+  <ul>
+    <li><strong>Description:</strong> Task Management dengan Vanilla Javascript</li>
+    <li><strong>Technologies:</strong> HTML, CSS, Javascript</li>
+    <li><strong>Features:</strong> -</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/task-management">vanilla/task-management</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/02bb82e0-61f5-44e3-9b76-4be322697775" alt="Task Management">
+    </li>
+  </ul>
+
 </details>
 <!-- Javascript Project -->
 
@@ -356,7 +369,7 @@
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Web-Component">vanilla/Todo App - Web Components</a>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/webComponents/Web-Component">webComponents/Todo App - Web Components</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/9c1efdc0-671d-4a6a-9ee7-20faa84efff4" alt="Todo App - Web Components Preview">
@@ -369,7 +382,7 @@
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Peminjaman-Buku">vanilla/WEB COMPONENT - Peminjaman Buku</a>
+      <a href="https://github.com/Aditypraa/Javascript-Project/tree/webComponents/Peminjaman-Buku">webComponents/WEB COMPONENT - Peminjaman Buku</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/3560ec99-470f-4152-b182-a66ed8f3fc50" alt="WEB COMPONENT - Peminjaman Buku Preview">
@@ -394,7 +407,7 @@
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v1">vanilla/Portfolio v1</a>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v1">portfolio/Portfolio v1</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/2c2cbae6-2a94-4d0d-a58f-a1ab7a483387" alt="Portfolio v1 Preview">
@@ -406,7 +419,7 @@
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v2">vanilla/Portfolio v2</a>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v2">portfolio/Portfolio v2</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/2a53ef7a-d41e-4af4-91ae-1b171187ecaa" alt="Portfolio v2 Preview">
@@ -418,7 +431,7 @@
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, Tailwind</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v3">vanilla/Portfolio v3</a>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v3">portfolio/Portfolio v3</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/29e6856e-0cb4-4ec5-93e1-49ac2d4e360a" alt="Portfolio v3 Preview">
