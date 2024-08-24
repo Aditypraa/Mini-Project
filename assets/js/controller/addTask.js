@@ -12,6 +12,13 @@ document.addEventListener("DOMContentLoaded", function () {
     const taskData = {
       taskName: document.getElementById("taskName").value,
       taskPriority: document.getElementById("taskPriority").value,
+
+      // membuat tanggal dengan format "tanggal bulan tahun"
+      createdAt: new Date().toLocaleDateString("id-ID", {
+        day: "numeric",
+        month: "long",
+        year: "numeric",
+      }),
     };
 
     const result = taskManager.saveTask(taskData);
