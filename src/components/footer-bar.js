@@ -1,6 +1,4 @@
 class FooterBar extends HTMLElement {
-  _shadowRoot = null;
-
   constructor() {
     super();
     this._shadowRoot = this.attachShadow({ mode: "open" });
