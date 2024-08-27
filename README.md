@@ -343,7 +343,7 @@
     <li><strong>Technologies:</strong> HTML, CSS, Javascript</li>
     <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/task-management">vanilla/task-management</a>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/javascript/task-management">javascript/task-management</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/02bb82e0-61f5-44e3-9b76-4be322697775" alt="Task Management">
@@ -363,29 +363,29 @@
 
 <h2>🚀 Projects Overview</h2>
 
-<h3>1. WEB COMPONENT -> Todo App</h3>
-  <ul>
-    <li><strong>Description:</strong> Html Form, Css Grid, Web Components</li>
-    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
-    <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/webComponents/Web-Component">webComponents/Todo App - Web Components</a>
-    </li>
-    <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/9c1efdc0-671d-4a6a-9ee7-20faa84efff4" alt="Todo App - Web Components Preview">
-    </li>
-  </ul>
-
-<h3>2. WEB COMPONENT -> Peminjaman Buku</h3>
+<h3>1. WEB COMPONENT -> Peminjaman Buku</h3>
   <ul>
     <li><strong>Description:</strong> Menampilkan Data Buku, Formulir, Css Grid, dan Penerapan Web Component</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/webComponents/Peminjaman-Buku">webComponents/WEB COMPONENT - Peminjaman Buku</a>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/peminjaman-buku">webComponents/Peminjaman-Buku</a>
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/3560ec99-470f-4152-b182-a66ed8f3fc50" alt="WEB COMPONENT - Peminjaman Buku Preview">
+    </li>
+  </ul>
+
+<h3>2. WEB COMPONENT -> Notes App</h3>
+  <ul>
+    <li><strong>Description:</strong> -</li>
+    <li><strong>Technologies:</strong> -</li>
+    <li><strong>Features:</strong> -</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/Notes-App">webComponents/Notes-App</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="" alt="Progress">
     </li>
   </ul>
 
