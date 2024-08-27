@@ -385,7 +385,7 @@
       <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/Notes-App">webComponents/Notes-App</a>
     </li>
     <li><strong>Preview:</strong><br>
-      <img src="" alt="Progress">
+      <img src="https://github.com/user-attachments/assets/451ce211-16a7-4a3d-a072-454c4a28a34c" alt="Progress">
     </li>
   </ul>
 
