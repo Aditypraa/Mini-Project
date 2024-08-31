@@ -285,20 +285,7 @@
     </li>
   </ul>
 
-  <h3>13. Club Finder APP</h3>
-  <ul>
-    <li><strong>Description:</strong> -</li>
-    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
-    <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Club-Finder-App">vanilla/Club Finder APP</a>
-    </li>
-    <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/4cd09694-2405-4b1a-8086-597246d5dd26" alt="Club Finder APP Preview">
-    </li>
-  </ul>
-
-   <h3>14. Belajar Alfabet</h3>
+   <h3>13. Belajar Alfabet</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
@@ -311,7 +298,7 @@
     </li>
   </ul>
 
-  <h3>15. Kalkulator BMI</h3>
+  <h3>14. Kalkulator BMI</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
@@ -324,7 +311,7 @@
     </li>
   </ul>
 
-  <h3>16. Tabel Pricing</h3>
+  <h3>15. Tabel Pricing</h3>
   <ul>
     <li><strong>Description:</strong> Tabel pricing html css with implementasi semantic HTML 🤳</li>
     <li><strong>Technologies:</strong> HTML, CSS</li>
@@ -386,6 +373,19 @@
     </li>
     <li><strong>Preview:</strong><br>
       <img src="https://github.com/user-attachments/assets/451ce211-16a7-4a3d-a072-454c4a28a34c" alt="Progress">
+    </li>
+  </ul>
+
+  <h3>13. WEB COMPONENT - Club Finder APP</h3>
+  <ul>
+    <li><strong>Description:</strong> -</li>
+    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>Features:</strong> -</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/Club-Finder-App">webComponents/Club Finder APP</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/4cd09694-2405-4b1a-8086-597246d5dd26" alt="Club Finder APP Preview">
     </li>
   </ul>
 
