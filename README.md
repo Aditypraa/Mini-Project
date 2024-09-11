@@ -55,7 +55,6 @@
   <ul>
     <li><strong>Description:</strong> Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Mini-Project/tree/html/HtmlForm-TodoApp">html/HTML FORM - Studi Kasus TODO APP</a>
     </li>
@@ -81,7 +80,6 @@
   <ul>
     <li><strong>Description:</strong> Todo Apps dengan penerapan Best Practice Form Html dan penanganan form validation</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/css/Css-Grid-TodoApp">css/CSS GRID - TODO APP</a>
     </li>
@@ -94,7 +92,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/css/Belajar-Flex">css/Belajar Flex</a>
     </li>
@@ -107,7 +104,6 @@
   <ul>
     <li><strong>Description:</strong> Navbar Responsive With Css native - Flexbox</li>
     <li><strong>Technologies:</strong> HTML, CSS</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/css/responsive-navbar">css/Navbar Responsive - With CSS Flex</a>
     </li>
@@ -133,7 +129,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Undangan-Pernikahan">vanilla/Undangan Pernikahan</a>
     </li>
@@ -146,7 +141,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Tebak-Angka123">vanilla/Tebak Angka</a>
     </li>
@@ -159,7 +153,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Game-Suwit-Jawa">vanilla/Game Suwit Jawa</a>
     </li>
@@ -172,7 +165,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Kuis-App">vanilla/Kuis App</a>
     </li>
@@ -185,7 +177,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Papan-Skor">vanilla/Papan Skor</a>
     </li>
@@ -198,7 +189,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Weather-App">vanilla/Weather App</a>
     </li>
@@ -211,7 +201,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bermain-Warna">vanilla/Bermain Warna</a>
     </li>
@@ -224,7 +213,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Kalkulator-Umur">vanilla/Kalkulator Umur</a>
     </li>
@@ -237,7 +225,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Todolist">vanilla/TodoList</a>
     </li>
@@ -250,7 +237,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Computational-Thinking">vanilla/Computational Thinking</a>
     </li>
@@ -263,7 +249,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/Bookshelf-Apps">vanilla/Bookshelf App</a>
     </li>
@@ -276,7 +261,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/belajar-alfabet">vanilla/Belajar Alfabet</a>
     </li>
@@ -289,7 +273,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/kalkulator-BMI">vanilla/Kalkulator BMI</a>
     </li>
@@ -302,7 +285,6 @@
   <ul>
     <li><strong>Description:</strong> Tabel pricing html css with implementasi semantic HTML 🤳</li>
     <li><strong>Technologies:</strong> HTML, CSS</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/tabel-pricing">vanilla/Tabel Pricing</a>
     </li>
@@ -315,7 +297,6 @@
   <ul>
     <li><strong>Description:</strong> Task Management dengan Vanilla Javascript</li>
     <li><strong>Technologies:</strong> HTML, CSS, Javascript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Mini-Project/tree/javascript/task-management">javascript/task-management</a>
     </li>
@@ -341,7 +322,6 @@
   <ul>
     <li><strong>Description:</strong> Menampilkan Data Buku, Formulir, Css Grid, dan Penerapan Web Component</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/peminjaman-buku">webComponents/Peminjaman-Buku</a>
     </li>
@@ -354,7 +334,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> -</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/Notes-App">webComponents/Notes-App</a>
     </li>
@@ -367,7 +346,6 @@
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
     <li><strong>Link:</strong>
       <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/Club-Finder-App">webComponents/Club Finder APP</a>
     </li>
@@ -529,7 +507,6 @@ Each project in this branch represents a step in my journey to mastering the Ful
 
 # 🤝 Contribution
 
-I welcome contributions and suggestions! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request. Let's collaborate and create something amazing together!
 
 # 📧 Contact
 
