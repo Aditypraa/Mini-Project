@@ -272,20 +272,7 @@
     </li>
   </ul>
 
-  <h3>12. Image Figure</h3>
-  <ul>
-    <li><strong>Description:</strong> -</li>
-    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Features:</strong> -</li>
-    <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Javascript-Project/tree/vanilla/image-figure">vanilla/Image Figure</a>
-    </li>
-    <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/ff3df29c-00e8-4bf2-b956-65c2ba8adc94" alt="Image Figure Preview">
-    </li>
-  </ul>
-
-   <h3>13. Belajar Alfabet</h3>
+   <h3>12. Belajar Alfabet</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
@@ -298,7 +285,7 @@
     </li>
   </ul>
 
-  <h3>14. Kalkulator BMI</h3>
+  <h3>13. Kalkulator BMI</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
@@ -311,7 +298,7 @@
     </li>
   </ul>
 
-  <h3>15. Tabel Pricing</h3>
+  <h3>14. Tabel Pricing</h3>
   <ul>
     <li><strong>Description:</strong> Tabel pricing html css with implementasi semantic HTML 🤳</li>
     <li><strong>Technologies:</strong> HTML, CSS</li>
@@ -324,7 +311,7 @@
     </li>
   </ul>
 
-  <h3>16. Task Management</h3>
+  <h3>15. Task Management</h3>
   <ul>
     <li><strong>Description:</strong> Task Management dengan Vanilla Javascript</li>
     <li><strong>Technologies:</strong> HTML, CSS, Javascript</li>
