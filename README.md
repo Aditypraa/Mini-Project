@@ -313,7 +313,7 @@
 <!-- Web Components -->
 <details close>
   <summary>
-    <h2>➕ 📂 Web Components</h2>
+    <h2>➕ 📂 Web Components & WebPack</h2>
   </summary>
 
 <h2>🚀 Projects Overview</h2>
@@ -330,7 +330,7 @@
     </li>
   </ul>
 
-<h3>2. WEB COMPONENT -> Notes App</h3>
+<h3>2. WEB COMPONENT & WebPack -> Notes App</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> -</li>
@@ -338,7 +338,7 @@
       <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/Notes-App">webComponents/Notes-App</a>
     </li>
     <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/451ce211-16a7-4a3d-a072-454c4a28a34c" alt="Progress">
+      <img src="https://github.com/user-attachments/assets/f6b66054-bd0b-4741-8980-65e2edaded79" alt="Notes-App">
     </li>
   </ul>
 
