@@ -375,7 +375,7 @@
       <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v1">portfolio/Portfolio v1</a>
     </li>
     <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/2c2cbae6-2a94-4d0d-a58f-a1ab7a483387" alt="Portfolio v1 Preview">
+      <img src="https://github.com/user-attachments/assets/af59bcfa-0b05-4030-8b97-175d9c040e0e" alt="Portfolio v1 Preview">
     </li>
   </ul>
 
@@ -387,7 +387,7 @@
       <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v2">portfolio/Portfolio v2</a>
     </li>
     <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/2a53ef7a-d41e-4af4-91ae-1b171187ecaa" alt="Portfolio v2 Preview">
+      <img src="https://github.com/user-attachments/assets/a5898663-0694-44a6-af29-97d6e7aed11a" alt="Portfolio v2 Preview">
     </li>
   </ul>
 
@@ -399,7 +399,7 @@
       <a href="https://github.com/Aditypraa/Mini-Project/tree/vanilla/portfolio-v3">portfolio/Portfolio v3</a>
     </li>
     <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/29e6856e-0cb4-4ec5-93e1-49ac2d4e360a" alt="Portfolio v3 Preview">
+      <img src="https://github.com/user-attachments/assets/a8aaefe0-76ba-4c07-9688-5c5c1cb8a936" alt="Portfolio v3 Preview">
     </li>
   </ul>
 
