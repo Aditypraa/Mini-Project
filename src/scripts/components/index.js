@@ -1,0 +1,9 @@
+import "./Footer/app-footer.js";
+import "./NoteItem/note-item.js";
+import "./Button/delete-button.js";
+import "./NoteForm/form-control.js";
+import "./Button/edit-button.js";
+import "./NoteForm/note-form.js";
+import "./Loading/loading-indicator.js";
+import "./Loading/loading-overlay.js";
+import "./Button/archive-button.js";
