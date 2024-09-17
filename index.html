@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personal Website</title>
+    <link rel="stylesheet" href="styles/style.css" />
+    <script
+      src="https://kit.fontawesome.com/c8e4d183c2.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body>
+    <!-- Navigation Section -->
+    <header>
+      <nav>
+        <!-- Logo -->
+        <h1 class="logo">My Profil</h1>
+
+        <!-- Menu -->
+        <ul>
+          <li><a href="#" class="active">Home</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#testimonial">Testimonials</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+
+        <!-- User Profile Picture -->
+        <img
+          src="assets/image/logo.png"
+          alt="Profile"
+          class="user-pic"
+          onclick="toggleMenu()"
+        />
+
+        <!-- Toggle Menu -->
+        <div class="sub-menu-wrap" id="subMenu">
+          <div class="sub-menu">
+            <div class="user-info">
+              <img src="assets/image/logo.png" alt="logo" />
+              <h2>Aditya Pratama</h2>
+              <a href="#" class="sub-menu-link">
+                <p>Edit Profile</p>
+              </a>
+              <a href="#" class="sub-menu-link">
+                <p>Setting & Privacy</p>
+              </a>
+              <a href="#" class="sub-menu-link">
+                <p>Help & Support</p>
+              </a>
+              <a href="#" class="sub-menu-link">
+                <p>Logout</p>
+              </a>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Main Section -->
+    <main>
+      <!-- Hero Section -->
+      <section class="text-container" id="home">
+        <p>Hallo Bang</p>
+        <p>ADITYA PRATAMA</p>
+        <p>Saya Kepingin Menjadi FullStack Web Developer</p>
+        <p>Manusia yang mempunyai cita cita di bidang Teknologi</p>
+        <button class="hire-btn">Hire me</button>
+        <button class="down-cv">Download CV</button>
+      </section>
+      <figure>
+        <img src="assets/image/tes.jpg" alt="model" class="model" />
+      </figure>
+
+      <!-- Aside Section -->
+      <aside class="noted">
+        <p>Website Ini Pertama Kali Dibuat Pada Tanggal 3 Maret 2024</p>
+      </aside>
+
+      <!-- Services Section -->
+      <article class="services" id="services">
+        <section class="services-text">
+          <p>Services</p>
+          <p class="services-bio">
+            Kami menyediakan beragam layanan berkualitas tinggi yang dirancang
+            untuk memenuhi kebutuhan Anda dengan sempurna...
+          </p>
+        </section>
+
+        <section class="box-container">
+          <div class="box-1">
+            <span>1</span>
+            <p class="heading">Keahlian 1</p>
+            <p class="details">Lorem Ipsum is simply dummy text...</p>
+            <button>Read More</button>
+          </div>
+          <div class="box-2">
+            <span>2</span>
+            <p class="heading">Keahlian 2</p>
+            <p class="details">Lorem Ipsum is simply dummy text...</p>
+            <button>Read More</button>
+          </div>
+          <div class="box-3">
+            <span>3</span>
+            <p class="heading">Keahlian 3</p>
+            <p class="details">Lorem Ipsum is simply dummy text...</p>
+            <button>Read More</button>
+          </div>
+        </section>
+      </article>
+
+      <!-- Testimonials Section -->
+      <article class="testimoni" id="testimonial">
+        <div class="testimoni-text">
+          <p>Testimoni Dari Client</p>
+        </div>
+
+        <aside class="testimoni-col">
+          <div class="testimoni-1">
+            <img src="assets/image/alan.jpg" />
+            <div>
+              <p>Lorem Ipsum is simply dummy text...</p>
+              <h3>Client Pertama</h3>
+              <i class="fas fa-star"></i><i class="fas fa-star"></i>
+              <i class="fas fa-star"></i><i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+          </div>
+
+          <div class="testimoni-2">
+            <img src="assets/image/mark.jpg" />
+            <div>
+              <p>Lorem Ipsum is simply dummy text...</p>
+              <h3>Client Kedua</h3>
+              <i class="fas fa-star"></i><i class="fas fa-star"></i>
+              <i class="fas fa-star"></i><i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+            </div>
+          </div>
+        </aside>
+
+        <!-- Social Media Icons -->
+        <aside class="social">
+          <a href="#"><i class="fab fa-whatsapp"></i></a>
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-youtube"></i></a>
+        </aside>
+      </article>
+    </main>
+
+    <!-- Footer Section -->
+    <footer id="contact">
+      <p>Apakah Anda Tertarik Menggunakan Layanan Saya?</p>
+      <p>Saya Akan Menggarap semua permintaan anda dengan sepenuh hati...</p>
+
+      <!-- Footer Social Media Icons -->
+      <div class="social-icons">
+        <a href="#"><i class="fab fa-whatsapp"></i></a>
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+      </div>
+
+      <p class="copyright">Copyright by Aditya Pratama</p>
+    </footer>
+
+    <script>
+      function toggleMenu() {
+        document.getElementById("subMenu").classList.toggle("open-menu");
+      }
+    </script>
+  </body>
+</html>
