@@ -313,7 +313,7 @@
 <!-- Web Components -->
 <details close>
   <summary>
-    <h2>➕ 📂 Web Components & WebPack</h2>
+    <h2>➕ 📂 Web Components</h2>
   </summary>
 
 <h2>🚀 Projects Overview</h2>
@@ -330,19 +330,7 @@
     </li>
   </ul>
 
-<h3>2. WEB COMPONENT & WebPack -> Notes App</h3>
-  <ul>
-    <li><strong>Description:</strong> -</li>
-    <li><strong>Technologies:</strong> -</li>
-    <li><strong>Link:</strong>
-      <a href="https://github.com/Aditypraa/Mini-Project/tree/webComponents/Notes-App">webComponents/Notes-App</a>
-    </li>
-    <li><strong>Preview:</strong><br>
-      <img src="https://github.com/user-attachments/assets/f6b66054-bd0b-4741-8980-65e2edaded79" alt="Notes-App">
-    </li>
-  </ul>
-
-  <h3>13. WEB COMPONENT - Club Finder APP</h3>
+<h3>2. WEB COMPONENT - Club Finder APP</h3>
   <ul>
     <li><strong>Description:</strong> -</li>
     <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
@@ -356,6 +344,31 @@
 
   </details>
 <!-- Web Components -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<!-- Webpack -->
+<details close>
+  <summary>
+    <h2>➕ 📂 WebPack</h2>
+  </summary>
+
+<h2>🚀 Projects Overview</h2>
+
+<h3>1. WEB COMPONENT & WEBPACK -> Notes App</h3>
+  <ul>
+    <li><strong>Description:</strong> -</li>
+    <li><strong>Technologies:</strong> -</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/webpack/Notes-App">webpack/Notes-App</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/f6b66054-bd0b-4741-8980-65e2edaded79" alt="Notes-App">
+    </li>
+  </ul>
+
+  </details>
+<!-- Webpack -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
