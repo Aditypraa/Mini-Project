@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Dicoding's Blog</title>
+
+    <!-- Google Font -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- Link ke file CSS eksternal -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+
+    <!-- Bagian Header: Ini adalah bagian paling atas halaman berisi judul blog dan navigasi -->
+    <header class="header">
+      <div class="header__inner">
+        <!-- Judul blog -->
+        <h1 class="header__title">Dicoding's Blog</h1>
+      </div>
+    </header>
+
+    <!-- Bagian Navigasi: Ini adalah bagian navigasi utama untuk berpindah antar halaman -->
+    <nav id="drawer" class="nav">
+      <ul class="nav__list">
+        <li class="nav__item"><a href="#">Articles</a></li> <!-- Link ke halaman Artikel -->
+        <li class="nav__item"><a href="#">Tutorials</a></li> <!-- Link ke halaman Tutorial -->
+        <li class="nav__item"><a href="#">Information</a></li> <!-- Link ke halaman Informasi -->
+        <li class="nav__item"><a href="#">Stories</a></li> <!-- Link ke halaman Cerita -->
+      </ul>
+    </nav>
+
+    <!-- Bagian Hero: Biasanya digunakan untuk menampilkan gambar besar dengan judul yang menonjol -->
+    <div class="hero">
+      <div class="hero__inner">
+        <!-- Judul besar di Hero -->
+        <h1 class="hero__title">Bangun Karirmu Sebagai Developer Profesional</h1>
+        <!-- Tagline di dalam Hero -->
+        <p class="hero__tagline">
+          Jadilah tuan rumah di negeri sendiri dengan belajar langsung dari para inovator
+          dan developer expert
+        </p>
+      </div>
+    </div>
+
+    <!-- Bagian Main: Ini adalah bagian utama dari halaman yang berisi konten utama -->
+    <main>
+
+      <!-- Bagian Artikel Utama -->
+      <section class="content">
+        <!-- Artikel Headline: Artikel utama yang ditampilkan pertama -->
+        <article class="headline">
+          <figure class="headline__figure">
+            <!-- Gambar terkait artikel headline -->
+            <img src="public/images/headline.png" alt="Dicoding Fact Sheet" />
+            <!-- Keterangan gambar -->
+            <figcaption>Dicoding February 2020 Infographic, 235k Members</figcaption>
+          </figure>
+          <div class="headline__content">
+            <!-- Judul artikel utama (headline) -->
+            <h1 class="headline__title">#ceritadicoding : Story of Dicoding</h1>
+            <!-- Deskripsi singkat artikel headline -->
+            <p class="headline__description">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus eum
+              facere nostrum officiis qui quidem ratione similique, soluta veniam
+              voluptatum.
+            </p>
+            <!-- Tombol untuk membaca lebih lanjut -->
+            <button class="headline__button">Read More</button>
+          </div>
+        </article>
+
+        <!-- Bagian Artikel Terbaru -->
+        <div class="latest">
+          <!-- Label untuk artikel terbaru -->
+          <h1 class="latest__label">Latest Post</h1>
+          <div class="posts">
+            
+            <!-- Artikel 1 -->
+            <article class="post-item">
+              <!-- Gambar thumbnail artikel -->
+              <img
+                class="post-item__thumbnail"
+                src="public/images/post-1.png"
+                alt="Gambar dua orang wanita sedang memegang laptop"
+              />
+              <!-- Konten artikel -->
+              <div class="post-item__content">
+                <!-- Informasi tanggal dan penulis artikel -->
+                <p class="post-item__date">
+                  About 10 Hours Ago By
+                  <a href="#" class="post-item__date__author">Dicoding Intern</a>
+                </p>
+                <!-- Judul artikel -->
+                <h1 class="post-item__title">
+                  <a href="#">Kenapa Harus Belajar Coding Dari Sekarang?</a>
+                </h1>
+                <!-- Deskripsi singkat artikel -->
+                <p class="post-item__description">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
+                  atque autem culpa laborum odio similique voluptas. A ab animi ducimus
+                  earum explicabo hic molestias repudiandae sunt. Consectetur consequuntur
+                  dolorum excepturi, fugit, minus nemo non quae quaerat quod recusandae
+                  reprehenderit totam, unde. Aliquid autem doloremque impedit quod tempora
+                  tenetur totam vero.
+                </p>
+              </div>
+            </article>
+
+            <!-- Artikel 2 -->
+            <article class="post-item">
+              <!-- Gambar thumbnail artikel -->
+              <img
+                class="post-item__thumbnail"
+                src="public/images/post-2.jpg"
+                alt="Github logo"
+              />
+              <!-- Konten artikel -->
+              <div class="post-item__content">
+                <!-- Informasi tanggal dan penulis artikel -->
+                <p class="post-item__date">
+                  About 10 Hours Ago By
+                  <a href="#" class="post-item__date__author">Alfian Y Abdullah</a>
+                </p>
+                <!-- Judul artikel -->
+                <h1 class="post-item__title">
+                  <a href="#">Apa itu Rate Limit pada Github API?</a>
+                </h1>
+                <!-- Deskripsi singkat artikel -->
+                <p class="post-item__description">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
+                  atque autem culpa laborum odio similique voluptas. A ab animi ducimus
+                  earum explicabo hic molestias repudiandae sunt. Consectetur consequuntur
+                  dolorum excepturi, fugit, minus nemo non quae quaerat quod recusandae
+                  reprehenderit totam, unde. Aliquid autem doloremque impedit quod tempora
+                  tenetur totam vero.
+                </p>
+              </div>
+            </article>
+
+            <!-- Artikel lainnya... -->
+            <article class="post-item">
+              <img
+                class="post-item__thumbnail"
+                src="public/images/post-3.jpg"
+                alt="Seorang lelaki sendang memakai filter instagram"
+              />
+              <div class="post-item__content">
+                <p class="post-item__date">
+                  About 10 Hours Ago By
+                  <a href="#" class="post-item__date__author">Aditya Tri Nugroho</a>
+                </p>
+                <h1 class="post-item__title">
+                  <a href="#">2 Langkah Utama Membuat Filter Kece di Instagram</a>
+                </h1>
+                <p class="post-item__description">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
+                  atque autem culpa laborum odio similique voluptas. A ab animi ducimus
+                  earum explicabo hic molestias repudiandae sunt. Consectetur consequuntur
+                  dolorum excepturi, fugit, minus nemo non quae quaerat quod recusandae
+                  reprehenderit totam, unde. Aliquid autem doloremque impedit quod tempora
+                  tenetur totam vero.
+                </p>
+              </div>
+            </article>
+
+            <article class="post-item">
+              <img
+                class="post-item__thumbnail"
+                src="public/images/post-4.jpg"
+                alt="Seorang lelaki dengan ekspresi bingung"
+              />
+              <div class="post-item__content">
+                <p class="post-item__date">
+                  About 10 Hours Ago By
+                  <a href="#" class="post-item__date__author">Dimas Catur Wibowo</a>
+                </p>
+                <h1 class="post-item__title">
+                  <a href="#">Kenapa Anak Sosial Hijrah Belajar Kotlin Android?</a>
+                </h1>
+                <p class="post-item__description">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
+                  atque autem culpa laborum odio similique voluptas. A ab animi ducimus
+                  earum explicabo hic molestias repudiandae sunt. Consectetur consequuntur
+                  dolorum excepturi, fugit, minus nemo non quae quaerat quod recusandae
+                  reprehenderit totam, unde. Aliquid autem doloremque impedit quod tempora
+                  tenetur totam vero.
+                </p>
+              </div>
+            </article>
+
+            <article class="post-item">
+              <img
+                class="post-item__thumbnail"
+                src="public/images/post-5.png"
+                alt="Seorang lelaki memakai baju abu-abu"
+              />
+              <div class="post-item__content">
+                <p class="post-item__date">
+                  About 10 Hours Ago By
+                  <a href="#" class="post-item__date__author">Mutiara Arumsari</a>
+                </p>
+                <h1 class="post-item__title">
+                  <a href="#">Programmer Atau Pro Gamer, Kamu Team Mana?</a>
+                </h1>
+                <p class="post-item__description">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
+                  atque autem culpa laborum odio similique voluptas. A ab animi ducimus
+                  earum explicabo hic molestias repudiandae sunt. Consectetur consequuntur
+                  dolorum excepturi, fugit, minus nemo non quae quaerat quod recusandae
+                  reprehenderit totam, unde. Aliquid autem doloremque impedit quod tempora
+                  tenetur totam vero.
+                </p>
+              </div>
+            </article>
+
+            <article class="post-item">
+              <img
+                class="post-item__thumbnail"
+                src="public/images/post-6.png"
+                alt="Seorang wanita di depan komputer sedang pusing"
+              />
+              <div class="post-item__content">
+                <p class="post-item__date">
+                  About 10 Hours Ago By
+                  <a href="#" class="post-item__date__author">Mutiara Arumsari</a>
+                </p>
+                <h1 class="post-item__title">
+                  <a href="#">Algoritma Dulu Ngoding Kemudian</a>
+                </h1>
+                <p class="post-item__description">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
+                  atque autem culpa laborum odio similique voluptas. A ab animi ducimus
+                  earum explicabo hic molestias repudiandae sunt. Consectetur consequuntur
+                  dolorum excepturi, fugit, minus nemo non quae quaerat quod recusandae
+                  reprehenderit totam, unde. Aliquid autem doloremque impedit quod tempora
+                  tenetur totam vero.
+                </p>
+              </div>
+            </article>
+
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Bagian Footer: Bagian bawah halaman yang berisi link tambahan -->
+    <footer>
+      <ul>
+        <li><a href="#">Help</a></li> <!-- Tautan ke halaman bantuan -->
+        <li><a href="#">About</a></li> <!-- Tautan ke halaman tentang -->
+        <li><a href="#">Contact</a></li> <!-- Tautan ke halaman kontak -->
+      </ul>
+    </footer>
+
+  </body>
+</html>
