@@ -367,6 +367,18 @@
     </li>
   </ul>
 
+  <h3>2. WebPack - Responsive Website</h3>
+  <ul>
+    <li><strong>Description:</strong> -</li>
+    <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/webpack/responsive-website">webpack/responsiveWebsite</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="img/dicoding-blog.png" alt="Responsive Website Dicoding">
+    </li>
+  </ul>
+
   </details>
 <!-- Webpack -->
 
