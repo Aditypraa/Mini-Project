@@ -305,6 +305,18 @@
     </li>
   </ul>
 
+  <h3>16. javascript-vanillaJs</h3>
+  <ul>
+    <li><strong>Description:</strong> Murni Javascript</li>
+    <li><strong>Technologies:</strong> HTML, CSS, Javascript</li>
+    <li><strong>Link:</strong>
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/javascript/vanillaJs">javascript/vanillaJs</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/9140f40c-ad94-4ec0-96d9-682a2643cdf1" alt="javascript-vanillaJs">
+    </li>
+  </ul>
+
 </details>
 <!-- Javascript Project -->
 
