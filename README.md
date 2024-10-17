@@ -387,7 +387,7 @@
       <a href="https://github.com/Aditypraa/Mini-Project/tree/webpack/responsive-website">webpack/responsiveWebsite</a>
     </li>
     <li><strong>Preview:</strong><br>
-      <img src="img/dicoding-blog.png" alt="Responsive Website Dicoding">
+      <img src="https://github.com/user-attachments/assets/3b9a69e8-0002-420b-882e-6e1922fa2a28" alt="Responsive Website Dicoding">
     </li>
   </ul>
 
