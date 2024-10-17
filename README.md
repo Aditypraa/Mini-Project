@@ -489,6 +489,18 @@
     </li>
   </ul>
 
+  <h3>3. ReactJs -> First React</h3>
+  <ul>
+    <li><strong>Description:</strong> -</li>
+    <li><strong>Technologies:</strong> -</li>
+    <li><strong>Link:</strong> 
+      <a href="https://github.com/Aditypraa/Mini-Project/tree/ReactJs/first-React">ReactJs/First React</a>
+    </li>
+    <li><strong>Preview:</strong><br>
+      <img src="https://github.com/user-attachments/assets/d9a6e23f-fddb-43d7-ae45-7f981eb8628d" alt="ReactJs/First React">
+    </li>
+  </ul>
+
 </details>
 <!-- React.Js -->
 
