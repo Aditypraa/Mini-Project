@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const result = userManager.signInUser(usernameByInput); // memanggil method saveUser dari object userManager
     if (result.success) {
       localStorage.setItem("usernameLoggin", usernameByInput);
-      window.location.href = "/tasks.html";
+      window.location.href = "/src/tasks.html";
     } else {
       alert(result.message);
     }

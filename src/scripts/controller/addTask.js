@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const result = taskManager.saveTask(taskData);
     if (result.success) {
-      window.location.href = "../../../tasks.html";
+      window.location.href = "/src/tasks.html";
     } else {
       alert("Gagal Menyimpan Data");
     }

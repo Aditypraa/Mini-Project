@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                 <div class="flex gap-3 items-center">
                                     <div
                                         class="w-[50px] h-[50px] flex shrink-0 items-center justify-center bg-[#BDEBFF] rounded-full">
-                                        <img src="./assets/img/icons/ghost.svg" alt="icon">
+                                        <img src="./assets/icons/ghost.svg" alt="icon">
                                     </div>
                                     <div class="flex flex-col">
                                         <p class="font-bold text-lg leading-[27px]">${capitalizeFirstLetter(
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                 <div class="flex gap-4 font-semibold text-sm leading-[21px]">
                                     <div class="flex gap-1 items-center">
                                         <div class="flex shrink-0 w-5 h-5">
-                                            <img src="./assets/img/icons/layer.svg" alt="icon">
+                                            <img src="./assets/icons/layer.svg" alt="icon">
                                         </div>
                                         <p>${task.taskPriority}</p>
                                     </div>
